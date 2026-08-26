@@ -1,0 +1,954 @@
+[
+  {
+    "document": {
+      "total_pages": 1
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "section_001",
+            "type": "section",
+            "heading": "About Us",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_002",
+            "type": "section",
+            "heading": "Leadership",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_003",
+            "type": "section",
+            "heading": "Culture and Ways of Working",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_004",
+            "type": "section",
+            "heading": "Strategic Initiatives",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_005",
+            "type": "section",
+            "heading": "Locations",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_006",
+            "type": "section",
+            "heading": "Contact and Escalation",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 1
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "section_001",
+            "type": "section",
+            "heading": "1. Employment Basics",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_001_subsection_001",
+                "type": "subsection",
+                "heading": "1.1 Employment Classification",
+                "text": "Employees are classified as Full-Time (35+ hours/week), Part-Time (fewer than 35 hours/week), or Temporary/Contract. Classification determines eligibility for benefits described in Section 3.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_001_subsection_002",
+                "type": "subsection",
+                "heading": "1.2 Probationary Period",
+                "text": "All new full-time employees serve a 90-calendar-day probationary period beginning on their start date. During this period, either the employee or Meridian Dynamics may terminate employment with 5 business days' notice, rather than the standard notice period described in Section 6.2.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_001_subsection_003",
+                "type": "subsection",
+                "heading": "1.3 Work Hours and Remote Work",
+                "text": "Standard work hours are 9:00 AM to 5:30 PM local time, Monday through Friday. Employees in Engineering, Digital Solutions, and Finance are eligible for a hybrid schedule of up to 3 remote days per week, subject to manager approval. Aftermarket Services and Manufacturing roles are generally not eligible for remote work due to on-site equipment requirements.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_002",
+            "type": "section",
+            "heading": "2. Leave Policy",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_002_subsection_001",
+                "type": "subsection",
+                "heading": "2.1 Paid Time Off (PTO)",
+                "text": "Full-time employees accrue PTO at the following rates based on tenure:\nYears 0–2: 15 days per year\nYears 3–5: 20 days per year\nYears 6+: 25 days per year\nPTO accrues monthly and may be carried over up to a maximum of 10 unused days into the following calendar year. Unused PTO beyond this cap is forfeited, except where prohibited by local law (e.g., certain jurisdictions in Poland).\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_002",
+                "type": "subsection",
+                "heading": "2.2 Sick Leave",
+                "text": "Employees receive 10 paid sick days per calendar year, separate from PTO. Sick leave does not carry over year to year.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_003",
+                "type": "subsection",
+                "heading": "2.3 Parental Leave",
+                "text": "Meridian Dynamics provides 16 weeks of paid parental leave for the primary caregiver and 6 weeks for the secondary caregiver, regardless of gender, for births, adoptions, or foster placements. Parental leave must be taken within 12 months of the qualifying event.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_004",
+                "type": "subsection",
+                "heading": "2.4 Bereavement Leave",
+                "text": "Employees are entitled to 5 paid days of bereavement leave for the death of an immediate family member, and 2 paid days for extended family.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_003",
+            "type": "section",
+            "heading": "3. Benefits",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_003_subsection_001",
+                "type": "subsection",
+                "heading": "3.1 Health Insurance",
+                "text": "Full-time employees are eligible for company-subsidized health insurance beginning on the first day of the month following their start date. Meridian Dynamics covers 80% of the premium for employee-only coverage and 60% of the premium for dependent coverage.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_003_subsection_002",
+                "type": "subsection",
+                "heading": "3.2 Retirement Savings",
+                "text": "Meridian Dynamics matches employee 401(k) (or local-equivalent pension) contributions dollar-for-dollar up to 4% of base salary, vesting immediately.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_003_subsection_003",
+                "type": "subsection",
+                "heading": "3.3 Professional Development",
+                "text": "Each employee has an annual professional development budget of $1,500 USD (or local currency equivalent), which may be used for courses, certifications, or conference attendance, subject to manager approval.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_004",
+            "type": "section",
+            "heading": "4. Code of Conduct",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_004_subsection_001",
+                "type": "subsection",
+                "heading": "4.1 Conflicts of Interest",
+                "text": "Employees must disclose any financial or personal relationship with a current or prospective vendor, supplier, or customer to their manager and to the Compliance Officer (Aisha Malik) before engaging in any business dealings with that party. This includes relationships with vendors such as those described in the Supply Chain Network document.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_004_subsection_002",
+                "type": "subsection",
+                "heading": "4.2 Confidentiality",
+                "text": "All employees are bound by the confidentiality terms in their employment agreement. Company financial data, unreleased product designs, and vendor contract terms are considered confidential and may not be disclosed outside the company without written approval from Legal (Elena Petrova's organization).\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_004_subsection_003",
+                "type": "subsection",
+                "heading": "4.3 Anti-Harassment",
+                "text": "Meridian Dynamics maintains a zero-tolerance policy for harassment or discrimination of any kind. Reports may be made to HR (James Okoro), Compliance (Aisha Malik), or through the anonymous ethics hotline.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_005",
+            "type": "section",
+            "heading": "5. Performance Management",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_005_subsection_001",
+                "type": "subsection",
+                "heading": "5.1 Review Cycle",
+                "text": "Formal performance reviews occur twice annually, in June and December. Reviews are conducted by the employee's direct manager and calibrated within each business unit.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_005_subsection_002",
+                "type": "subsection",
+                "heading": "5.2 Performance Improvement Plans (PIPs)",
+                "text": "Employees rated as \"Needs Improvement\" in a review cycle are placed on a 60-day Performance Improvement Plan, jointly designed by the manager and HR Business Partner.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_006",
+            "type": "section",
+            "heading": "6. Separation from Employment",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_006_subsection_001",
+                "type": "subsection",
+                "heading": "6.1 Voluntary Resignation",
+                "text": "Employees are asked to provide a minimum of 2 weeks' written notice, or 4 weeks for employees at the Director level or above.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_006_subsection_002",
+                "type": "subsection",
+                "heading": "6.2 Involuntary Termination",
+                "text": "Outside the probationary period described in Section 1.2, involuntary termination requires documented performance or conduct issues, HR review, and sign-off from the employee's department head.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_006_subsection_003",
+                "type": "subsection",
+                "heading": "6.3 Final Pay and Benefits",
+                "text": "Final paychecks, including any accrued and unused PTO, are issued no later than the next standard pay cycle following the separation date, or sooner where required by local law.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 1
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "section_001",
+            "type": "section",
+            "heading": "1. Scope and Purpose",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_002",
+            "type": "section",
+            "heading": "2. Account and Access Management",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_002_subsection_001",
+                "type": "subsection",
+                "heading": "2.1 Password Requirements",
+                "text": "All company accounts must use passwords meeting the following criteria:\nMinimum 14 characters\nAt least one uppercase letter, one lowercase letter, one number, and one symbol\nMust not reuse any of the previous 10 passwords\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_002",
+                "type": "subsection",
+                "heading": "2.2 Password Rotation",
+                "text": "Passwords for standard user accounts must be rotated every 180 days. Passwords for privileged/administrative accounts, including cloud administrator accounts used to manage Acme Cloud Solutions infrastructure, must be rotated every 90 days.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_003",
+                "type": "subsection",
+                "heading": "2.3 Multi-Factor Authentication (MFA)",
+                "text": "MFA is mandatory for all remote access, all administrative accounts, and all access to systems classified as \"Confidential\" or \"Restricted\" under Section 4.2.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_002_subsection_004",
+                "type": "subsection",
+                "heading": "2.4 Access Review",
+                "text": "Department managers must review and certify their team's system access rights every 6 months. Access for terminated employees must be revoked within 4 business hours of the separation being recorded in the HR system.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_003",
+            "type": "section",
+            "heading": "3. Vendor and Third-Party Access",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_003_subsection_001",
+                "type": "subsection",
+                "heading": "3.1 Vendor Risk Tiers",
+                "text": "Vendors are classified into three risk tiers based on the sensitivity of data they can access:\nTier 1 (High Risk): Vendors with access to Confidential or Restricted data (e.g., cloud infrastructure providers such as Acme Cloud Solutions).\nTier 2 (Medium Risk): Vendors with access to Internal-only data.\nTier 3 (Low Risk): Vendors with no system access (e.g., hardware suppliers such as Bright Steel Supply who ship physical components without network access).\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_003_subsection_002",
+                "type": "subsection",
+                "heading": "3.2 Tier 1 Vendor Requirements",
+                "text": "Tier 1 vendors must undergo an annual SOC 2 Type II audit review, sign a Data Processing Agreement, and be re-approved by both IT Security (David Osei) and Compliance (Aisha Malik) annually. Acme Cloud Solutions was last re-approved under this process as documented in the vendor contract (see 04_vendor_contract_acme).\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_004",
+            "type": "section",
+            "heading": "4. Data Classification",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_004_subsection_001",
+                "type": "subsection",
+                "heading": "4.1 Classification Levels",
+                "text": "Data at Meridian Dynamics is classified into four levels: Public, Internal, Confidential, and Restricted.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_004_subsection_002",
+                "type": "subsection",
+                "heading": "4.2 Handling Requirements by Level",
+                "text": "Public: No restrictions on distribution.\nInternal: May be shared within the company but not externally without manager approval.\nConfidential: Includes financial reports, vendor contracts, and employee records. Requires encryption at rest and in transit, and access is limited to named individuals or roles.\nRestricted: Includes trade secrets, unreleased product designs, and security incident details. Requires MFA, encryption, and explicit access-list approval from the Director of IT Security.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_005",
+            "type": "section",
+            "heading": "5. Incident Response",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_005_subsection_001",
+                "type": "subsection",
+                "heading": "5.1 Reporting",
+                "text": "Any suspected security incident must be reported to the IT Security team within 1 hour of discovery via the internal incident portal or by contacting David Osei's team directly.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_005_subsection_002",
+                "type": "subsection",
+                "heading": "5.2 Severity Classification",
+                "text": "Incidents are classified as Low, Medium, High, or Critical based on data sensitivity and scope of impact. Critical incidents require notification to the CEO (Tom Reyes) and General Counsel (Elena Petrova) within 4 hours.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_005_subsection_003",
+                "type": "subsection",
+                "heading": "5.3 Post-Incident Review",
+                "text": "All High and Critical incidents require a formal post-incident review within 10 business days, coordinated jointly by IT Security and Compliance.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_006",
+            "type": "section",
+            "heading": "6. Cloud Infrastructure Security (Project Helios Specific)",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_006_subsection_001",
+                "type": "subsection",
+                "heading": "6.1 Environment Segregation",
+                "text": "Project Helios cloud environments hosted with Acme Cloud Solutions must maintain strict segregation between development, staging, and production environments, with production access limited to a named list approved by David Osei.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_006_subsection_002",
+                "type": "subsection",
+                "heading": "6.2 Encryption Standards",
+                "text": "All data stored in Acme Cloud Solutions environments must be encrypted using AES-256 at rest and TLS 1.2 or higher in transit.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_006_subsection_003",
+                "type": "subsection",
+                "heading": "6.3 Cost and Access Monitoring",
+                "text": "Cloud spend and access logs for Project Helios infrastructure are reviewed monthly by IT Security in coordination with Procurement (Priya Raman) to detect anomalous usage or unauthorized provisioning.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_007",
+            "type": "section",
+            "heading": "7. Exceptions",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 2
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "article_001",
+            "type": "article",
+            "heading": "Article 1 — Scope of Services",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "article_002",
+            "type": "article",
+            "heading": "Article 2 — Fees and Payment",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "article_003",
+            "type": "article",
+            "heading": "Article 3 — Service Level Agreement (SLA)",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "article_004",
+            "type": "article",
+            "heading": "Article 4 — Security and Compliance",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "article_005",
+            "type": "article",
+            "heading": "Article 5 — Data Processing",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "nodes": [
+          {
+            "id": "article_006",
+            "type": "article",
+            "heading": "Article 6 — Termination",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "article_007",
+            "type": "article",
+            "heading": "Article 7 — Renewal and Amendment History",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "signatures_001",
+            "type": "signatures",
+            "heading": "Signatures",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "exhibit_a",
+            "type": "exhibit",
+            "heading": "Exhibit A — Statement of Work (Summary)",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "exhibit_b",
+            "type": "exhibit",
+            "heading": "Exhibit B — Data Processing Agreement (Summary)",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "exhibit_c",
+            "type": "exhibit",
+            "heading": "Exhibit C — Early Termination Fee Schedule",
+            "pages": [
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 1
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "section_001",
+            "type": "section",
+            "heading": "1. Purpose",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_002",
+            "type": "section",
+            "heading": "2. Approval Thresholds",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_003",
+            "type": "section",
+            "heading": "3. Standard Approval Chain (the \"$50k Rule\")",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_004",
+            "type": "section",
+            "heading": "4. Special Cases",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_004_subsection_001",
+                "type": "subsection",
+                "heading": "4.1 IT Security-Relevant Purchases",
+                "text": "Any purchase involving a vendor that will receive system access (Tier 1 or Tier 2 under the IT Security Policy) requires an additional sign-off from David Osei, Director of IT Security, inserted between steps 1 and 2 of the Standard Approval Chain in Section 3.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_004_subsection_002",
+                "type": "subsection",
+                "heading": "4.2 Legal Review Requirement",
+                "text": "Any new vendor contract (not a renewal or amendment of an existing contract) requires review by Elena Petrova, General Counsel, prior to Priya Raman's step in the Standard Approval Chain.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_004_subsection_003",
+                "type": "subsection",
+                "heading": "4.3 Capital Expenditure Above $250,000",
+                "text": "Per company policy, capital expenditures above $250,000 require Tom Reyes's sign-off as CEO regardless of business unit, consistent with his authority described in the Company Overview document.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_005",
+            "type": "section",
+            "heading": "5. Project-Specific Notes",
+            "pages": [
+              1
+            ],
+            "subsections": [
+              {
+                "id": "section_005_subsection_001",
+                "type": "subsection",
+                "heading": "5.1 Project Helios",
+                "text": "All Project Helios procurement (cloud services from Acme Cloud Solutions, hardware from Bright Steel Supply) is initiated by Marcus Webb's Engineering organization but must still route through the Standard Approval Chain in Section 3 for any commitment at or above $50,000. David Osei's additional sign-off (Section 4.1) applies to all Acme Cloud Solutions purchases given their Tier 1 vendor status.\n",
+                "pages": [
+                  1
+                ]
+              },
+              {
+                "id": "section_005_subsection_002",
+                "type": "subsection",
+                "heading": "5.2 Project Atlas",
+                "text": "Project Atlas procurement (ERP licensing, Vertex Logistics shipping services for hardware rollout) is initiated by Linda Fischer's Finance organization and follows the same Standard Approval Chain.\n",
+                "pages": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section_006",
+            "type": "section",
+            "heading": "6. Approval Timeline Expectations",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_007",
+            "type": "section",
+            "heading": "7. Audit and Recordkeeping",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 5
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "worksheet_001",
+            "type": "worksheet",
+            "heading": "Summary",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "nodes": [
+          {
+            "id": "worksheet_002",
+            "type": "worksheet",
+            "heading": "Project Spend",
+            "pages": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "nodes": [
+          {
+            "id": "worksheet_003",
+            "type": "worksheet",
+            "heading": "Vendor Spend",
+            "pages": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "nodes": [
+          {
+            "id": "worksheet_004",
+            "type": "worksheet",
+            "heading": "Headcount & Capex",
+            "pages": [
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "nodes": [
+          {
+            "id": "worksheet_005",
+            "type": "worksheet",
+            "heading": "Risks & Outlook",
+            "pages": [
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 2
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "section_001",
+            "type": "section",
+            "heading": "1. Overview",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_002",
+            "type": "section",
+            "heading": "2. Installation",
+            "pages": [
+              1
+            ]
+          },
+          {
+            "id": "section_003",
+            "type": "section",
+            "heading": "3. Configuration",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "nodes": [
+          {
+            "id": "section_004",
+            "type": "section",
+            "heading": "4. Diagnostic Codes",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "section_005",
+            "type": "section",
+            "heading": "5. Maintenance",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "section_006",
+            "type": "section",
+            "heading": "6. Safety Requirements",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "section_007",
+            "type": "section",
+            "heading": "7. Ordering Information",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "id": "section_008",
+            "type": "section",
+            "heading": "8. Warranty",
+            "pages": [
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 3
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "worksheet_001",
+            "type": "worksheet",
+            "heading": "Vendor Directory",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "nodes": [
+          {
+            "id": "worksheet_002",
+            "type": "worksheet",
+            "heading": "Component Dependency Map",
+            "pages": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "nodes": [
+          {
+            "id": "worksheet_003",
+            "type": "worksheet",
+            "heading": "Risk & Onboarding",
+            "pages": [
+              3
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "document": {
+      "total_pages": 2
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "nodes": [
+          {
+            "id": "worksheet_001",
+            "type": "worksheet",
+            "heading": "Reporting Lines",
+            "pages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "nodes": [
+          {
+            "id": "worksheet_002",
+            "type": "worksheet",
+            "heading": "Approval Authority",
+            "pages": [
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
