@@ -1,7 +1,7 @@
 import json
 import os
 
-from gemini_client import generate_answer
+from groq_client import generate_answer
 from tree_traversal import flatten_nodes
 from bm25_retriever import bm25_search
 

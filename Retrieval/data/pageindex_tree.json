@@ -18,7 +18,7 @@
           "title": "About Us",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Meridian Dynamics Corp (MDC), founded in 2009 and headquartered in Austin, Texas, with regional offices in Chicago, Illinois, and Krakow, Poland, is an industrial technology company that designs, manufactures, and services precision automation equipment for the aerospace, automotive, and renewable-energy sectors. Employing approximately 2,400 people worldwide with a reported revenue of $412 million in its most recently completed fiscal year, MDC is structured into four business units: Industrial Automation, Renewable Systems, Aftermarket Services, and Digital Solutions. The Digital Solutions unit is the newest business unit and houses the company's internal software and data initiatives, including the enterprise knowledge platform supported by this document set.",
+          "summary": "Meridian Dynamics Corp (MDC), founded in 2009, is a mid‑sized industrial technology company headquartered in Austin, Texas, with regional offices in Chicago, Illinois and Krakow, Poland. It designs, manufactures, and services precision automation equipment for the aerospace, automotive, and renewable‑energy sectors, employs roughly 2,400 people worldwide, and reported $412 million in revenue for the most recent fiscal year. MDC operates four primary business units—Industrial Automation, Renewable Systems, Aftermarket Services, and Digital Solutions, the newest unit that oversees internal software and data initiatives, including the enterprise knowledge platform supported by this document set.",
           "full_text": "Meridian Dynamics Corp (MDC) is a mid-sized industrial technology company headquartered in Austin, Texas, with regional offices in Chicago, Illinois and Krakow, Poland. Founded in 2009, the company designs, manufactures, and services precision automation equipment for the aerospace, automotive, and renewable-energy sectors. MDC employs approximately 2,400 people worldwide and reported revenue of $412 million in the most recently completed fiscal year.\nThe company is organized into four primary business units: Industrial Automation, Renewable Systems, Aftermarket Services, and Digital Solutions. Digital Solutions, the newest business unit, was formed to house the company's internal software and data initiatives, including the enterprise knowledge platform this document set supports.\n",
           "children": []
         },
@@ -28,7 +28,7 @@
           "title": "Leadership",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Meridian Dynamics is led by Chief Executive Officer Tom Reyes, who joined the company in 2018, reports to the Board of Directors, and holds sign-off authority on capital expenditures above $250,000. Six executives report directly to Reyes: Chief Financial Officer Sarah Chen (overseeing Finance, Procurement, and Financial Planning & Analysis), Vice President of Engineering Marcus Webb (overseeing product engineering, IT infrastructure, and IT Security), General Counsel Elena Petrova (overseeing Legal, Contracts, and Compliance), and the heads of the four business units. The complete executive reporting structure is detailed in the organizational chart referenced as 09_org_chart_and_roles.",
+          "summary": "Meridian Dynamics is headed by Chief Executive Officer Tom Reyes, who joined in 2018 after serving as COO of a rival firm; he reports to the Board of Directors and has final sign‑off authority for all capital expenditures exceeding $250,000. Reporting directly to Reyes are six executives: Sarah Chen, Chief Financial Officer, responsible for Finance, Procurement, and Financial Planning & Analysis; Marcus Webb, Vice President of Engineering, overseeing product engineering, IT infrastructure, and IT security; Elena Petrova, General Counsel, in charge of Legal, Contracts, and Compliance; and the heads of the four business units (not detailed here). A complete reporting‑line diagram is available in the organizational chart referenced as 09_org_chart_and_roles.",
           "full_text": "Meridian Dynamics is led by Chief Executive Officer Tom Reyes, who joined the company in 2018 after previously serving as COO of a competing firm. Reyes reports to the Board of Directors and holds ultimate sign-off authority on all capital expenditures above $250,000.\nReporting directly to Reyes are six executives:\nSarah Chen, Chief Financial Officer, overseeing Finance, Procurement, and Financial Planning & Analysis.\nMarcus Webb, Vice President of Engineering, overseeing all product engineering, IT infrastructure, and IT Security.\nElena Petrova, General Counsel, overseeing Legal, Contracts, and Compliance.\nThe heads of the four business units (not detailed in this document).\nA full breakdown of reporting lines is maintained in the organizational chart (see 09_org_chart_and_roles).\n",
           "children": []
         },
@@ -38,7 +38,7 @@
           "title": "Culture and Ways of Working",
           "page_start": 1,
           "page_end": 1,
-          "summary": "At Meridian Dynamics, daily knowledge-sharing challenges and search inefficiencies, such as engineers looking through shared drives, old emails, and outdated wikis, motivated the Digital Solutions unit to invest in retrieval-augmented knowledge systems. The company maintains a culture heavily focused on written documentation, where employees must consult specific written policies for recurring decisions—including hiring, procurement, security exceptions, and vendor onboarding—prior to escalating questions to managers or subject-matter experts.",
+          "summary": "Employees at Meridian Dynamics cite internal knowledge‑sharing problems as a frequent source of friction, with engineers devoting large parts of their week to locating information buried in shared drives, old email threads and outdated wikis—even though the data technically exists within the organization. This inefficiency drove the Digital Solutions unit to invest in retrieval‑augmented knowledge systems. Meridian places high value on written documentation: virtually every recurring decision—such as hiring, procurement, security exceptions, and vendor onboarding—is governed by a formal policy, and staff are required to review the applicable policy before escalating questions to managers or subject‑matter experts.",
           "full_text": "Employees at Meridian Dynamics frequently describe the company's internal knowledge-sharing challenges as a major source of daily friction. Engineers report spending significant portions of their week searching through shared drives, old email threads, and outdated wikis to find information that technically already exists somewhere in the organization. This inefficiency was a primary motivator behind the Digital Solutions unit's investment in retrieval-augmented knowledge systems.\nThe company values written documentation. Nearly every recurring decision — hiring, procurement, security exceptions, vendor onboarding — is governed by a written policy. Employees are expected to consult the relevant policy before escalating a question to a manager or subject-matter expert.\n",
           "children": []
         },
@@ -48,7 +48,7 @@
           "title": "Strategic Initiatives",
           "page_start": 1,
           "page_end": 1,
-          "summary": "The Strategic Initiatives document details two major internal projects: Project Helios, a multi-year cloud infrastructure migration led by Marcus Webb of the Engineering organization aiming to transition on-premises compute workloads to the cloud and reduce data-center operating costs by an estimated 30%, and Project Atlas, an enterprise resource planning (ERP) system rollout led by Linda Fischer (VP of Finance Operations) to replace decade-old financial and inventory systems. Both initiatives depend on external vendors for hardware, software licensing, and logistics support, and both are subject to the company's standard procurement approval workflow referenced in 05_project_approval_workflow.",
+          "summary": "Project Helios is a multi‑year cloud infrastructure migration driven by Engineering under Marcus Webb, aimed at shifting most on‑premises compute workloads to the cloud and cutting data‑center operating costs by roughly 30%; Project Atlas is an ERP system rollout led by Finance’s VP of Finance Operations, Linda Fischer, intended to replace the company’s ten‑year‑old financial and inventory applications. Both initiatives depend on external vendors for hardware, software licensing, and logistics and must follow the company’s standard procurement approval workflow (see 05_project_approval_workflow).",
           "full_text": "Two major internal initiatives are currently underway:\nProject Helios — a multi-year cloud infrastructure migration led by the Engineering organization under Marcus Webb, intended to move the majority of on-premises compute workloads to cloud infrastructure and reduce data-center operating costs by an estimated 30%.\nProject Atlas — an enterprise resource planning (ERP) system rollout led by the Finance organization under Linda Fischer, VP of Finance Operations, intended to replace the company's decade-old financial and inventory systems.\nBoth initiatives rely on external vendors for hardware, software licensing, and logistics support, and both are subject to the company's standard procurement approval workflow (see 05_project_approval_workflow).\n",
           "children": []
         },
@@ -68,7 +68,7 @@
           "title": "Contact and Escalation",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Questions regarding company-wide policy should be directed first to the relevant department, with unresolved escalations routed to the appropriate executive listed under Leadership. The document details key corporate locations, their functions, and approximate headcounts: Austin, TX (HQ) handles Corporate functions, Engineering, and Digital Solutions with approximately 1,050 employees; Chicago, IL manages Manufacturing and Aftermarket Services with approximately 900 employees; and Krakow, Poland supports Renewable Systems engineering and back-office finance with approximately 450 employees.",
+          "summary": "Company‑wide policy questions should first be directed to the relevant department listed in this overview, with unresolved escalations forwarded to the appropriate executive under Leadership. The organization’s locations and primary functions are: Austin, TX (HQ) housing Corporate functions, Engineering, and Digital Solutions with approximately 1,050 employees; Chicago, IL covering Manufacturing and Aftermarket Services with about 900 employees; and Krakow, Poland supporting Renewable Systems engineering and back‑office finance with roughly 450 employees.",
           "full_text": "Questions about company-wide policy should first be directed to the relevant department listed in this overview. Escalations that cannot be resolved at the departmental level are routed to the appropriate executive listed under Leadership above.\nLocation | Function | Headcount (approx.)\nAustin, TX (HQ) | Corporate functions, Engineering, Digital Solutions | 1,050\nChicago, IL | Manufacturing, Aftermarket Services | 900\nKrakow, Poland | Renewable Systems engineering, back-office finance | 450\n",
           "children": []
         }
@@ -89,7 +89,7 @@
           "title": "1. Employment Basics",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Under Section 1, Employment Basics, Meridian Dynamics classifies employees as Full-Time (35+ hours/week, which determines Section 3 benefits eligibility), Part-Time (fewer than 35 hours/week), or Temporary/Contract. New full-time employees undergo a 90-calendar-day probationary period from their start date, during which either the employee or Meridian Dynamics can terminate employment with 5 business days' notice instead of the standard Section 6.2 notice. Standard work hours are 9:00 AM to 5:30 PM local time, Monday through Friday. Employees in Engineering, Digital Solutions, and Finance are eligible for a hybrid schedule of up to 3 remote days per week subject to manager approval, while Aftermarket Services and Manufacturing roles are generally ineligible for remote work due to on-site equipment requirements.",
+          "summary": "Employees are categorized as Full‑Time (≥35 hours/week), Part‑Time (<35 hours/week), or Temporary/Contract, which determines benefits eligibility (see Section 3). All new full‑time hires undergo a 90‑calendar‑day probationary period starting on their hire date, during which either party may end employment with 5 business days’ notice instead of the standard notice in Section 6.2. Standard work hours are 9:00 AM–5:30 PM, Monday‑Friday; Engineering, Digital Solutions, and Finance staff may work up to three remote days per week with manager approval, while Aftermarket Services and Manufacturing positions are generally ineligible for remote work due to on‑site equipment needs.",
           "full_text": "1.1 Employment Classification\nEmployees are classified as Full-Time (35+ hours/week), Part-Time (fewer than 35 hours/week), or Temporary/Contract. Classification determines eligibility for benefits described in Section 3.\n1.2 Probationary Period\nAll new full-time employees serve a 90-calendar-day probationary period beginning on their start date. During this period, either the employee or Meridian Dynamics may terminate employment with 5 business days' notice, rather than the standard notice period described in Section 6.2.\n1.3 Work Hours and Remote Work\nStandard work hours are 9:00 AM to 5:30 PM local time, Monday through Friday. Employees in Engineering, Digital Solutions, and Finance are eligible for a hybrid schedule of up to 3 remote days per week, subject to manager approval. Aftermarket Services and Manufacturing roles are generally not eligible for remote work due to on-site equipment requirements.\n",
           "children": [
             {
@@ -130,7 +130,7 @@
           "title": "2. Leave Policy",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This section details the Meridian Dynamics Leave Policy, covering Paid Time Off (PTO), sick leave, parental leave, and bereavement leave. Full-time employees accrue PTO monthly based on tenure, receiving 15 days per year for Years 0–2, 20 days for Years 3–5, and 25 days for Years 6+, with a maximum carryover of 10 unused days into the next calendar year unless prohibited by local law (e.g., select jurisdictions in Poland). Additionally, employees receive 10 non-carryover paid sick days per calendar year. The policy provides gender-neutral paid parental leave for births, adoptions, or foster placements to be taken within 12 months of the event, offering 16 weeks for primary caregivers and 6 weeks for secondary caregivers. Lastly, paid bereavement leave is granted at 5 days for immediate family members and 2 days for extended family.",
+          "summary": "Full‑time employees earn PTO monthly at 15 days per year for the first two years of service, 20 days per year for years three through five, and 25 days per year after six years; up to 10 unused PTO days may be carried into the next calendar year, with any excess forfeited unless local law (e.g., certain Polish jurisdictions) prohibits such forfeiture. In addition, each employee receives 10 paid sick days annually, which do not roll over. Meridian Dynamics offers gender‑neutral parental leave of 16 weeks for the primary caregiver and 6 weeks for the secondary caregiver for births, adoptions, or foster placements, to be taken within 12 months of the qualifying event. Bereavement leave provides five paid days for the death of an immediate family member and two paid days for extended family members.",
           "full_text": "2.1 Paid Time Off (PTO)\nFull-time employees accrue PTO at the following rates based on tenure:\nYears 0–2: 15 days per year\nYears 3–5: 20 days per year\nYears 6+: 25 days per year\nPTO accrues monthly and may be carried over up to a maximum of 10 unused days into the following calendar year. Unused PTO beyond this cap is forfeited, except where prohibited by local law (e.g., certain jurisdictions in Poland).\n2.2 Sick Leave\nEmployees receive 10 paid sick days per calendar year, separate from PTO. Sick leave does not carry over year to year.\n2.3 Parental Leave\nMeridian Dynamics provides 16 weeks of paid parental leave for the primary caregiver and 6 weeks for the secondary caregiver, regardless of gender, for births, adoptions, or foster placements. Parental leave must be taken within 12 months of the qualifying event.\n2.4 Bereavement Leave\nEmployees are entitled to 5 paid days of bereavement leave for the death of an immediate family member, and 2 paid days for extended family.\n",
           "children": [
             {
@@ -181,7 +181,7 @@
           "title": "3. Benefits",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Under Section 3 (Benefits), Meridian Dynamics provides full-time employees with company-subsidized health insurance starting the first day of the month following their start date, covering 80% of employee-only premiums and 60% of dependent premiums. For retirement savings, the company matches employee 401(k) or local-equivalent pension contributions dollar-for-dollar up to 4% of base salary, which vests immediately. Additionally, employees receive an annual professional development budget of $1,500 USD (or local currency equivalent) for manager-approved courses, certifications, or conferences.",
+          "summary": "Full‑time employees become eligible for company‑subsidized health insurance on the first day of the month after their start date, with Meridian Dynamics paying 80 % of the premium for employee‑only plans and 60 % for dependent coverage; the company also matches employee 401(k) (or local‑equivalent pension) contributions dollar‑for‑dollar up to 4 % of base salary with immediate vesting, and provides an annual professional‑development budget of $1,500 USD (or local‑currency equivalent) that may be spent on courses, certifications, or conference attendance subject to manager approval.",
           "full_text": "3.1 Health Insurance\nFull-time employees are eligible for company-subsidized health insurance beginning on the first day of the month following their start date. Meridian Dynamics covers 80% of the premium for employee-only coverage and 60% of the premium for dependent coverage.\n3.2 Retirement Savings\nMeridian Dynamics matches employee 401(k) (or local-equivalent pension) contributions dollar-for-dollar up to 4% of base salary, vesting immediately.\n3.3 Professional Development\nEach employee has an annual professional development budget of $1,500 USD (or local currency equivalent), which may be used for courses, certifications, or conference attendance, subject to manager approval.\n",
           "children": [
             {
@@ -222,7 +222,7 @@
           "title": "4. Code of Conduct",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This section of the Meridian Dynamics Code of Conduct outlines policies regarding conflicts of interest, confidentiality, and anti-harassment. Section 4.1 requires employees to disclose any financial or personal relationships with current or prospective vendors, suppliers (including those referenced in the Supply Chain Network document), or customers to their manager and Compliance Officer Aisha Malik before engaging in business dealings. Section 4.2 enforces confidentiality obligations for company financial data, unreleased product designs, and vendor contract terms, requiring written approval from Legal (Elena Petrova's organization) prior to any external disclosure. Section 4.3 establishes a zero-tolerance policy for harassment or discrimination, directing reports to HR (James Okoro), Compliance (Aisha Malik), or the anonymous ethics hotline.",
+          "summary": "Employees must disclose any financial or personal relationships with current or prospective vendors, suppliers, or customers to their manager and to Compliance Officer Aisha Malik before any business interaction, including vendors listed in the Supply Chain Network document; all staff are bound by the confidentiality provisions of their employment agreements, prohibiting disclosure of company financial data, unreleased product designs, and vendor contract terms without written approval from Legal under Elena Petrova’s organization; Meridian Dynamics enforces a zero‑tolerance anti‑harassment policy, with reports directed to HR (James Okoro), Compliance (Aisha Malik), or the anonymous ethics hotline.",
           "full_text": "4.1 Conflicts of Interest\nEmployees must disclose any financial or personal relationship with a current or prospective vendor, supplier, or customer to their manager and to the Compliance Officer (Aisha Malik) before engaging in any business dealings with that party. This includes relationships with vendors such as those described in the Supply Chain Network document.\n4.2 Confidentiality\nAll employees are bound by the confidentiality terms in their employment agreement. Company financial data, unreleased product designs, and vendor contract terms are considered confidential and may not be disclosed outside the company without written approval from Legal (Elena Petrova's organization).\n4.3 Anti-Harassment\nMeridian Dynamics maintains a zero-tolerance policy for harassment or discrimination of any kind. Reports may be made to HR (James Okoro), Compliance (Aisha Malik), or through the anonymous ethics hotline.\n",
           "children": [
             {
@@ -263,7 +263,7 @@
           "title": "5. Performance Management",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Under the Performance Management section, formal performance reviews are conducted twice annually in June and December by direct managers and calibrated within each business unit (Section 5.1). Employees who receive a \"Needs Improvement\" rating are placed on a 60-day Performance Improvement Plan (PIP), which is jointly designed by their direct manager and an HR Business Partner (Section 5.2).",
+          "summary": "Formal performance reviews are held twice a year—in June and December—by each employee’s direct manager and are calibrated within the respective business unit. Employees receiving a “Needs Improvement” rating are placed on a 60‑day Performance Improvement Plan that is jointly designed by the manager and the HR Business Partner.",
           "full_text": "5.1 Review Cycle\nFormal performance reviews occur twice annually, in June and December. Reviews are conducted by the employee's direct manager and calibrated within each business unit.\n5.2 Performance Improvement Plans (PIPs)\nEmployees rated as \"Needs Improvement\" in a review cycle are placed on a 60-day Performance Improvement Plan, jointly designed by the manager and HR Business Partner.\n",
           "children": [
             {
@@ -294,7 +294,7 @@
           "title": "6. Separation from Employment",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This section details the procedures and requirements for separation from employment. For voluntary resignations (Section 6.1), employees must provide a minimum of 2 weeks' written notice, which increases to 4 weeks for those at the Director level or above. Involuntary termination (Section 6.2) outside of the probationary period (defined in Section 1.2) requires documented performance or conduct issues, an HR review, and sign-off from the department head. Finally, Section 6.3 outlines that final paychecks, including any accrued and unused PTO, must be issued no later than the next standard pay cycle following the separation date, or sooner if mandated by local law.",
+          "summary": "Employees who resign must give at least two weeks’ written notice, or four weeks if they are Directors or higher. For involuntary termination after the probationary period (see Section 1.2), the employer must have documented performance or conduct issues, obtain an HR review, and secure sign‑off from the employee’s department head. Final pay, including any accrued but unused PTO, must be issued by the next regular pay cycle after the separation date, or earlier if required by local law.",
           "full_text": "6.1 Voluntary Resignation\nEmployees are asked to provide a minimum of 2 weeks' written notice, or 4 weeks for employees at the Director level or above.\n6.2 Involuntary Termination\nOutside the probationary period described in Section 1.2, involuntary termination requires documented performance or conduct issues, HR review, and sign-off from the employee's department head.\n6.3 Final Pay and Benefits\nFinal paychecks, including any accrued and unused PTO, are issued no later than the next standard pay cycle following the separation date, or sooner where required by local law.\n",
           "children": [
             {
@@ -346,7 +346,7 @@
           "title": "1. Scope and Purpose",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This policy establishes the rules for the acceptable use, protection, and management of Meridian Dynamics Corp's information systems, specifically including all systems supporting Project Helios and Project Atlas. The policy applies to all employees, contractors, and third-party vendors with access to company systems, explicitly including vendors such as Acme Cloud Solutions.",
+          "summary": "The policy governs the acceptable use, protection, and management of Meridian Dynamics Corp’s information systems, encompassing all systems supporting Project Helios and Project Atlas, and applies to all employees, contractors, and third‑party vendors with system access, including vendors such as Acme Cloud Solutions.",
           "full_text": "This policy governs the acceptable use, protection, and management of Meridian Dynamics Corp's information systems, including all systems used in support of Project Helios and Project Atlas. It applies to all employees, contractors, and third-party vendors with access to company systems, including vendors such as Acme Cloud Solutions.\n",
           "children": []
         },
@@ -356,7 +356,7 @@
           "title": "2. Account and Access Management",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This section details the company's account and access management policies. Section 2.1 establishes password requirements of at least 14 characters, complexity (one uppercase, lowercase, number, and symbol), and a 10-password history limit. Section 2.2 mandates password rotation every 180 days for standard users and every 90 days for privileged/administrative accounts, including Acme Cloud Solutions cloud administrator accounts. Under Section 2.3, Multi-Factor Authentication (MFA) is mandatory for remote access, administrative accounts, and systems classified as \"Confidential\" or \"Restricted\" under Section 4.2. Section 2.4 requires department managers to review team access rights every 6 months and mandates the revocation of terminated employee access within 4 business hours of HR system registration.",
+          "summary": "All company accounts must use passwords of at least 14 characters that include an uppercase letter, a lowercase letter, a number and a symbol, and cannot repeat any of the previous ten passwords; standard user passwords must be rotated every 180 days, while privileged/administrative (including Acme Cloud Solutions cloud‑admin) passwords must be rotated every 90 days. Multi‑factor authentication is required for all remote access, for every administrative account, and for any system classified as “Confidential” or “Restricted” under Section 4.2. Department managers must review and certify their team’s access rights semi‑annually, and access for terminated employees must be removed within four business hours of the termination being recorded in the HR system.",
           "full_text": "2.1 Password Requirements\nAll company accounts must use passwords meeting the following criteria:\nMinimum 14 characters\nAt least one uppercase letter, one lowercase letter, one number, and one symbol\nMust not reuse any of the previous 10 passwords\n2.2 Password Rotation\nPasswords for standard user accounts must be rotated every 180 days. Passwords for privileged/administrative accounts, including cloud administrator accounts used to manage Acme Cloud Solutions infrastructure, must be rotated every 90 days.\n2.3 Multi-Factor Authentication (MFA)\nMFA is mandatory for all remote access, all administrative accounts, and all access to systems classified as \"Confidential\" or \"Restricted\" under Section 4.2.\n2.4 Access Review\nDepartment managers must review and certify their team's system access rights every 6 months. Access for terminated employees must be revoked within 4 business hours of the separation being recorded in the HR system.\n",
           "children": [
             {
@@ -407,7 +407,7 @@
           "title": "3. Vendor and Third-Party Access",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Under the vendor and third-party access policy, vendors are classified into three risk tiers based on data sensitivity: Tier 1 (High Risk) for vendors accessing Confidential or Restricted data (such as cloud infrastructure provider Acme Cloud Solutions); Tier 2 (Medium Risk) for vendors with access to Internal-only data; and Tier 3 (Low Risk) for those with no system access (such as physical component supplier Bright Steel Supply). Tier 1 vendors must meet strict compliance obligations, including undergoing an annual SOC 2 Type II audit review, signing a Data Processing Agreement, and obtaining annual re-approval from IT Security (David Osei) and Compliance (Aisha Malik). Acme Cloud Solutions was last re-approved under these requirements as documented in the vendor contract reference 04_vendor_contract_acme.",
+          "summary": "Vendors are divided into three risk tiers according to the sensitivity of data they may access: Tier 1 (high risk) includes vendors with Confidential or Restricted data access such as Acme Cloud Solutions; Tier 2 (medium risk) covers vendors accessing Internal‑only data; and Tier 3 (low risk) comprises vendors with no system access, for example hardware supplier Bright Steel Supply. Tier 1 vendors must undergo an annual SOC 2 Type II audit review, sign a Data Processing Agreement, and receive yearly re‑approval from IT Security (David Osei) and Compliance (Aisha Malik). The most recent re‑approval of Acme Cloud Solutions is recorded in the vendor contract file “04_vendor_contract_acme.”",
           "full_text": "3.1 Vendor Risk Tiers\nVendors are classified into three risk tiers based on the sensitivity of data they can access:\nTier 1 (High Risk): Vendors with access to Confidential or Restricted data (e.g., cloud infrastructure providers such as Acme Cloud Solutions).\nTier 2 (Medium Risk): Vendors with access to Internal-only data.\nTier 3 (Low Risk): Vendors with no system access (e.g., hardware suppliers such as Bright Steel Supply who ship physical components without network access).\n3.2 Tier 1 Vendor Requirements\nTier 1 vendors must undergo an annual SOC 2 Type II audit review, sign a Data Processing Agreement, and be re-approved by both IT Security (David Osei) and Compliance (Aisha Malik) annually. Acme Cloud Solutions was last re-approved under this process as documented in the vendor contract (see 04_vendor_contract_acme).\n",
           "children": [
             {
@@ -438,7 +438,7 @@
           "title": "4. Data Classification",
           "page_start": 1,
           "page_end": 1,
-          "summary": "At Meridian Dynamics, data is classified into four levels with specific handling requirements: Public data has no distribution restrictions, while Internal data requires manager approval for external sharing. Confidential data—encompassing financial reports, vendor contracts, and employee records—demands encryption at rest and in transit, with access limited to named individuals or roles. Restricted data—which includes trade secrets, unreleased product designs, and security incident details—requires multi-factor authentication (MFA), encryption, and explicit access-list approval from the Director of IT Security.",
+          "summary": "Meridian Dynamics classifies data into four levels: Public (no distribution restrictions), Internal (shareable within the company but not externally without manager approval), Confidential (covers financial reports, vendor contracts, and employee records; must be encrypted at rest and in transit and accessed only by named individuals or roles), and Restricted (encompasses trade secrets, unreleased product designs, and security incident details; requires multi‑factor authentication, encryption, and explicit access‑list approval from the Director of IT Security).",
           "full_text": "4.1 Classification Levels\nData at Meridian Dynamics is classified into four levels: Public, Internal, Confidential, and Restricted.\n4.2 Handling Requirements by Level\nPublic: No restrictions on distribution.\nInternal: May be shared within the company but not externally without manager approval.\nConfidential: Includes financial reports, vendor contracts, and employee records. Requires encryption at rest and in transit, and access is limited to named individuals or roles.\nRestricted: Includes trade secrets, unreleased product designs, and security incident details. Requires MFA, encryption, and explicit access-list approval from the Director of IT Security.\n",
           "children": [
             {
@@ -469,7 +469,7 @@
           "title": "5. Incident Response",
           "page_start": 1,
           "page_end": 1,
-          "summary": "Under the \"5. Incident Response\" policy, suspected security incidents must be reported to the IT Security team or David Osei's team within 1 hour of discovery through the internal incident portal. Incidents are classified as Low, Medium, High, or Critical based on data sensitivity and impact, with Critical incidents requiring notification to CEO Tom Reyes and General Counsel Elena Petrova within 4 hours. Additionally, all High and Critical incidents require a formal post-incident review within 10 business days, coordinated jointly by the IT Security and Compliance teams.",
+          "summary": "Any suspected security incident must be reported to the IT Security team within 1 hour of discovery through the internal incident portal or by contacting David Osei’s team directly. Incidents are classified as Low, Medium, High, or Critical based on data sensitivity and impact scope; Critical incidents must also be escalated to CEO Tom Reyes and General Counsel Elena Petrova within 4 hours. All High and Critical incidents require a formal post‑incident review to be completed within 10 business days, jointly coordinated by IT Security and Compliance.",
           "full_text": "5.1 Reporting\nAny suspected security incident must be reported to the IT Security team within 1 hour of discovery via the internal incident portal or by contacting David Osei's team directly.\n5.2 Severity Classification\nIncidents are classified as Low, Medium, High, or Critical based on data sensitivity and scope of impact. Critical incidents require notification to the CEO (Tom Reyes) and General Counsel (Elena Petrova) within 4 hours.\n5.3 Post-Incident Review\nAll High and Critical incidents require a formal post-incident review within 10 business days, coordinated jointly by IT Security and Compliance.\n",
           "children": [
             {
@@ -510,7 +510,7 @@
           "title": "6. Cloud Infrastructure Security (Project Helios Specific)",
           "page_start": 1,
           "page_end": 1,
-          "summary": "This section details the cloud infrastructure security requirements specific to Project Helios hosted with Acme Cloud Solutions. It mandates strict environment segregation among development, staging, and production, with production access restricted to a named list approved by David Osei. All data must be encrypted utilizing AES-256 at rest and TLS 1.2 or higher in transit, and cloud spend and access logs must undergo monthly reviews by IT Security and Procurement (Priya Raman) to identify anomalous usage or unauthorized provisioning.",
+          "summary": "Project Helios must keep its Acme Cloud Solutions environments strictly segregated into development, staging, and production, with production access limited to a named list approved by David Osei; all stored data must be encrypted at rest with AES‑256 and in transit with TLS 1.2 or higher; and cloud spend and access logs are reviewed monthly by IT Security together with Procurement (Priya Raman) to identify anomalous usage or unauthorized provisioning.",
           "full_text": "6.1 Environment Segregation\nProject Helios cloud environments hosted with Acme Cloud Solutions must maintain strict segregation between development, staging, and production environments, with production access limited to a named list approved by David Osei.\n6.2 Encryption Standards\nAll data stored in Acme Cloud Solutions environments must be encrypted using AES-256 at rest and TLS 1.2 or higher in transit.\n6.3 Cost and Access Monitoring\nCloud spend and access logs for Project Helios infrastructure are reviewed monthly by IT Security in coordination with Procurement (Priya Raman) to detect anomalous usage or unauthorized provisioning.\n",
           "children": [
             {
@@ -551,7 +551,7 @@
           "title": "7. Exceptions",
           "page_start": 1,
           "page_end": 1,
-          "summary": "According to the \"7. Exceptions\" section, any exception to the policy requires a written risk acceptance signed by both the requesting department head and David Osei, with a copy retained by Compliance (Aisha Malik) for audit purposes.",
+          "summary": "Exceptions to the policy must be documented through a written risk acceptance signed by the requesting department head and David Osei; a copy of this acceptance must be retained by Compliance (Aisha Malik) for audit purposes.",
           "full_text": "Any exception to this policy requires a written risk acceptance signed by both the requesting department head and David Osei, with a copy retained by Compliance (Aisha Malik) for audit purposes.\n",
           "children": []
         }
@@ -564,7 +564,7 @@
       "source": "data\\04_vendor_contract_acme.pdf",
       "file_type": "pdf",
       "page_count": 2,
-      "summary": "",
+      "summary": "The agreement between Meridian Dynamics Corp. and Acme Cloud Solutions, Inc. obliges Acme to deliver cloud compute, storage, and managed database services for Meridian’s Project Helios migration (see Exhibit A’s 400 vCPU reserved instances, 2 PB of managed object storage, and three production PostgreSQL clusters), with a total estimated value of $3,200,000 for the initial three‑year term; invoices are issued monthly in arrears and must be paid net‑30, and any change order or usage commitment over $50,000 requires written approval through Meridian’s Purchase Approval Workflow (document 05_project_approval_workflow). Acme guarantees a 99.95 % monthly uptime, providing service credits of 5 % of monthly fees for each 0.1 % shortfall (capped at 50 % of monthly fees), and must announce planned maintenance at least seven days in advance. Designated as a Tier 1 (High Risk) vendor under SEC‑POL‑004, Acme must complete an annual SOC 2 Type II audit and deliver the report to IT Security (David Osei) within 30 days, while adhering to AES‑256 at rest and TLS 1.2+ in transit encryption; the contract was re‑approved in Q1 by David Osei and Aisha Malik. A separate Data Processing Agreement (Exhibit B) governs personal data, requiring that data for the Krakow office remain in EU‑based data centers and complying with EU‑US transfer clauses. Either party may terminate for material breach with 30 days’ notice and a cure period, and Meridian may terminate for convenience with 90 days’ notice, subject to early‑termination fees outlined in Exhibit C (40 % in Year 1, 25 % in Year 2, 10 % in Year 3). Amendment No. 2, approved through the chain Priya Raman → Sarah Chen → Tom Reyes per the $50,000 threshold rule, expands storage for Project Helios Phase 2 and raises annual committed spend by $410,000. The agreement is signed by Tom Reyes, CEO of Meridian Dynamics, and Rebecca Sun, Vice President of Enterprise Sales for Acme Cloud Solutions.",
       "children": [
         {
           "id": "article_001",
@@ -572,7 +572,7 @@
           "title": "Article 1 — Scope of Services",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Acme Cloud Solutions will provide cloud compute, storage, and managed database services to support Meridian Dynamics Corp’s Project Helios cloud migration initiative, with the specific requirements outlined in Exhibit A (Statement of Work).",
           "full_text": "Acme Cloud Solutions shall provide cloud compute, storage, and managed database services in support of\nMeridian Dynamics Corp's Project Helios cloud migration initiative, as further detailed in Exhibit A\n(Statement of Work).\n",
           "children": []
         },
@@ -582,7 +582,7 @@
           "title": "Article 2 — Fees and Payment",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The contract’s total value is estimated at $3,200,000 for the initial three‑year term based on projected usage tiers; invoices are issued monthly in arrears and must be paid within 30 days (net‑30); and any single change order or usage commitment exceeding $50,000 requires written approval according to Meridian Dynamics Corp’s internal Purchase Approval Workflow (refer to document 05_project_approval_workflow) before it can be executed.",
           "full_text": "2.1 Total contract value is estimated at $3,200,000 over the initial 3-year term, based on projected usage\ntiers.\n2.2 Invoices are issued monthly in arrears and payable net-30.\n2.3 Any single change order or usage commitment exceeding $50,000 requires written approval per\nMeridian Dynamics Corp's internal Purchase Approval Workflow (see 05_project_approval_workflow) prior\nto execution.\n",
           "children": []
         },
@@ -592,7 +592,7 @@
           "title": "Article 3 — Service Level Agreement (SLA)",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Acme Cloud Solutions guarantees a 99.95% monthly uptime for production workloads; if uptime falls short, the provider issues service credits equal to 5% of the monthly fees for each 0.1% deficit, capped at a total of 50% of the monthly fees in any billing period, and all planned maintenance windows must be announced at least 7 days in advance.",
           "full_text": "3.1 Acme Cloud Solutions guarantees 99.95% monthly uptime for production workloads.\n3.2 Service credits of 5% of monthly fees are issued for each 0.1% shortfall below the guaranteed uptime,\nup to a maximum of 50% of monthly fees in any billing period.\n3.3 Planned maintenance windows require 7 days' advance notice.\n",
           "children": []
         },
@@ -602,7 +602,7 @@
           "title": "Article 4 — Security and Compliance",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Acme Cloud Solutions is designated as a Tier 1 (High Risk) vendor under Meridian Dynamics Corp’s IT Security Policy (SEC‑POL‑004, §3.1) and must complete an annual SOC 2 Type II audit, delivering the audit report to the IT Security team (contact: David Osei) within 30 days of audit completion; the vendor is also required to uphold encryption standards set out in §6.2 of the same policy (AES‑256 for data at rest and TLS 1.2 or higher for data in transit). The agreement was most recently re‑approved during the current fiscal year’s Q1 vendor review by David Osei (IT Security) and Aisha Malik (Compliance).",
           "full_text": "4.1 Acme Cloud Solutions is classified as a Tier 1 (High Risk) vendor under Meridian Dynamics Corp's IT\nSecurity Policy (SEC-POL-004), Section 3.1.\n4.2 Vendor shall undergo an annual SOC 2 Type II audit and provide the audit report to Meridian Dynamics\nCorp's IT Security team (David Osei) within 30 days of completion.\n4.3 Vendor shall maintain encryption standards consistent with Section 6.2 of Meridian Dynamics Corp's IT\nSecurity Policy (AES-256 at rest, TLS 1.2+ in transit).\n4.4 This agreement was most recently re-approved on the annual review cycle by David Osei (IT Security)\nand Aisha Malik (Compliance) as of the current fiscal year's Q1 vendor review.\n",
           "children": []
         },
@@ -612,7 +612,7 @@
           "title": "Article 5 — Data Processing",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Article 5 establishes that a separate Data Processing Agreement (DPA), provided as Exhibit B, governs all personal data handled via Acme Cloud Solutions infrastructure, and mandates that data for European operations supporting the Krakow office must reside exclusively in EU‑based data centers.",
           "full_text": "5.1 A separate Data Processing Agreement (DPA), attached as Exhibit B, governs the handling of any\npersonal data processed through Acme Cloud Solutions infrastructure.\n5.2 Data residency for European operations (supporting the Krakow office) is limited to EU-based data\ncenters.\n",
           "children": []
         },
@@ -622,7 +622,7 @@
           "title": "Article 6 — Termination",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Either party may end the agreement for a material breach by giving the other party 30 days’ written notice and a chance to cure the breach; additionally, Meridian Dynamics Corp may terminate the agreement for convenience with 90 days’ written notice, subject to the early‑termination fees outlined in Exhibit C.",
           "full_text": "6.1 Either party may terminate for material breach with 30 days' written notice and opportunity to cure.\n6.2 Meridian Dynamics Corp may terminate for convenience with 90 days' written notice, subject to\nearly-termination fees described in Exhibit C.\n",
           "children": []
         },
@@ -632,7 +632,7 @@
           "title": "Article 7 — Renewal and Amendment History",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Amendment No. 2, the contract’s latest amendment, was executed to expand storage capacity for Project Helios Phase 2 and raises the annual committed spend by $410,000; it was approved via the standard chain—Priya Raman (Procurement) to Sarah Chen (CFO) to Tom Reyes (CEO)—in accordance with the $50,000 threshold rule set out in Article 2.3.",
           "full_text": "7.1 This contract's most recent amendment (Amendment No. 2) was executed to expand storage capacity in\nsupport of Project Helios's Phase 2 rollout, increasing the annual committed spend by $410,000.\n7.2 Amendment No. 2 was approved through the standard approval chain: Priya Raman (Procurement) ->\nSarah Chen (CFO) -> Tom Reyes (CEO), consistent with the $50,000 threshold rule in Article 2.3.\n",
           "children": []
         },
@@ -642,7 +642,7 @@
           "title": "Signatures",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Meridian Dynamics Corp is represented by Tom Reyes, Chief Executive Officer, while Acme Cloud Solutions, Inc. is represented by Rebecca Sun, Vice President of Enterprise Sales.",
           "full_text": "Meridian Dynamics Corp: Tom Reyes, Chief Executive Officer\nAcme Cloud Solutions, Inc.: Rebecca Sun, VP of Enterprise Sales\n",
           "children": []
         },
@@ -652,7 +652,7 @@
           "title": "Exhibit A — Statement of Work (Summary)",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The Statement of Work specifies provisioning of 400 vCPU reserved instances, 2 PB of managed object storage, and three production PostgreSQL clusters to support Project Helios workloads that are being migrated from the Austin data center.",
           "full_text": "Item\nDetail\nCompute\n400 vCPU reserved instances\nStorage\n2 PB managed object storage\nManaged Database\n3 production PostgreSQL clusters supporting Project Helios workloads migrated from the Austin data center\n",
           "children": []
         },
@@ -662,7 +662,7 @@
           "title": "Exhibit B — Data Processing Agreement (Summary)",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Standard contractual clauses govern the cross‑border transfer of personal data from the Krakow office to the United States, ensuring compliance with EU‑US data protection requirements for such international flows.",
           "full_text": "Standard contractual clauses apply for cross-border data transfer between the United States and the\nEuropean Union, covering data originating from the Krakow office.\n",
           "children": []
         },
@@ -672,7 +672,7 @@
           "title": "Exhibit C — Early Termination Fee Schedule",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The exhibit outlines an early termination fee schedule based on the timing of contract termination: if terminated in Year 1, the fee is 40 % of the remaining contract value; in Year 2, the fee is 25 % of the remaining contract value; and in Year 3, the fee is 10 % of the remaining contract value.",
           "full_text": "Termination Timing\nFee (% of remaining contract value)\nYear 1\n40%\nYear 2\n25%\nYear 3\n10%\n",
           "children": []
         }
@@ -685,7 +685,7 @@
       "source": "data\\05_project_approval_workflow.docx",
       "file_type": "docx",
       "page_count": 1,
-      "summary": "",
+      "summary": "The document defines Meridian Dynamics Corp.’s mandatory approval workflow for purchase commitments, vendor contracts, and project budget allocations across all business units—including Project Helios (Engineering) and Project Atlas (Finance)—by establishing a “$50k Rule” that any order, contract, or change order of $50,000 or more must be approved sequentially by Priya Raman (Head of Procurement, who validates vendor selection, pricing, and Tier classification per IT Security Policy §3.1), Sarah Chen (CFO, who confirms budget and financial terms), and Tom Reyes (CEO, who provides final sign‑off); special cases add David Osei (Director of IT Security) for any vendor granted Tier 1 or Tier 2 system access, Elena Petrova (General Counsel) for new vendor contracts before Priya’s step, and require the CEO’s sign‑off for capital expenditures over $250,000; Project Helios procurements of Acme Cloud Solutions (a Tier 1 vendor) and Bright Steel hardware, initiated by Marcus Webb, must follow the standard chain and include David Osei’s sign‑off, while Project Atlas procurements of ERP licensing and Vertex Logistics services, led by Linda Fischer, also follow the standard chain; the workflow targets a ten‑business‑day end‑to‑end approval period with Priya’s review in five days, the CFO’s in three days, and the CEO’s in two days; all approvals are entered into the procurement system with digital signatures and are subject to quarterly audits by compliance officer Aisha Malik, while approval thresholds dictate that purchases under $10,000 require only the Department Manager’s sign‑off, $10,000–$49,999 require Department Manager and Department Head, $50,000–$499,999 follow Priya Raman → Sarah Chen → Tom Reyes, and $500,000 and above add the Board Finance Committee after those three approvers.",
       "children": [
         {
           "id": "section_001",
@@ -693,7 +693,7 @@
           "title": "1. Purpose",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The document outlines the required approval chain for purchase commitments, vendor contracts, and project budget allocations at Meridian Dynamics Corp., and it applies across all business units, including Project Helios (Engineering) and Project Atlas (Finance).",
           "full_text": "This document defines the approval chain required for purchase commitments, vendor contracts, and project budget allocations at Meridian Dynamics Corp. It applies to all business units, including Project Helios (Engineering) and Project Atlas (Finance).\n",
           "children": []
         },
@@ -713,7 +713,7 @@
           "title": "3. Standard Approval Chain (the \"$50k Rule\")",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Any purchase order, contract, or change order of $50,000 or more must follow a three‑person approval chain before execution: Priya Raman, Head of Procurement, validates the vendor selection, pricing, and Tier classification (per IT Security Policy §3.1 when the vendor accesses systems); Sarah Chen, CFO, confirms budget availability and financial terms; and Tom Reyes, CEO, provides the final sign‑off. This requirement applies across all business units and was used for the original Acme Cloud Solutions master agreement and its Amendment No. 2 (see 04_vendor_contract_acme, Article 7).",
           "full_text": "Any single purchase order, contract, or change order valued at $50,000 or more must be routed through the following sequence before execution:\nPriya Raman, Head of Procurement — validates vendor selection, pricing, and Tier classification (per IT Security Policy Section 3.1 if the vendor has system access).\nSarah Chen, Chief Financial Officer — validates budget availability and financial terms.\nTom Reyes, Chief Executive Officer — final sign-off authority.\nThis chain applies regardless of business unit, and was used for both the original Acme Cloud Solutions master agreement and its subsequent Amendment No. 2 (see 04_vendor_contract_acme, Article 7).\n",
           "children": []
         },
@@ -723,7 +723,7 @@
           "title": "4. Special Cases",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Special cases modify the Standard Approval Chain: any purchase that grants a vendor Tier 1 or Tier 2 system access under the IT Security Policy must obtain an additional sign‑off from David Osei, Director of IT Security, placed between steps 1 and 2; any new vendor contract (excluding renewals or amendments) must be reviewed by Elena Petrova, General Counsel, before Priya Raman’s approval step; and any capital expenditure exceeding $250,000 requires the CEO’s sign‑off—Tom Reyes—regardless of business unit, as outlined in the Company Overview document.",
           "full_text": "4.1 IT Security-Relevant Purchases\nAny purchase involving a vendor that will receive system access (Tier 1 or Tier 2 under the IT Security Policy) requires an additional sign-off from David Osei, Director of IT Security, inserted between steps 1 and 2 of the Standard Approval Chain in Section 3.\n4.2 Legal Review Requirement\nAny new vendor contract (not a renewal or amendment of an existing contract) requires review by Elena Petrova, General Counsel, prior to Priya Raman's step in the Standard Approval Chain.\n4.3 Capital Expenditure Above $250,000\nPer company policy, capital expenditures above $250,000 require Tom Reyes's sign-off as CEO regardless of business unit, consistent with his authority described in the Company Overview document.\n",
           "children": [
             {
@@ -764,7 +764,7 @@
           "title": "5. Project-Specific Notes",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Project Helios procurement—cloud services from Acme Cloud Solutions and hardware from Bright Steel Supply—is initiated by Marcus Webb’s Engineering organization but any commitment of $50,000 or more must follow the Standard Approval Chain in Section 3, and all Acme Cloud Solutions purchases require the additional sign‑off of David Osei per Section 4.1 because Acme is a Tier 1 vendor. Project Atlas procurement—ERP licensing and Vertex Logistics shipping services for hardware rollout—is initiated by Linda Fischer’s Finance organization and also follows the Standard Approval Chain.",
           "full_text": "5.1 Project Helios\nAll Project Helios procurement (cloud services from Acme Cloud Solutions, hardware from Bright Steel Supply) is initiated by Marcus Webb's Engineering organization but must still route through the Standard Approval Chain in Section 3 for any commitment at or above $50,000. David Osei's additional sign-off (Section 4.1) applies to all Acme Cloud Solutions purchases given their Tier 1 vendor status.\n5.2 Project Atlas\nProject Atlas procurement (ERP licensing, Vertex Logistics shipping services for hardware rollout) is initiated by Linda Fischer's Finance organization and follows the same Standard Approval Chain.\n",
           "children": [
             {
@@ -795,7 +795,7 @@
           "title": "6. Approval Timeline Expectations",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Procurement, led by Priya Raman, aims to complete the Section 3, Step 1 review within five business days; the CFO’s Step 2 review is targeted at three business days, and the CEO’s Step 3 review at two business days, yielding an overall ten‑business‑day end‑to‑end approval timeline for purchases that must pass the full Standard Approval Chain.",
           "full_text": "Procurement (Priya Raman's team) targets a 5-business-day turnaround for Section 3, Step 1 review. CFO review (Step 2) targets 3 business days. CEO review (Step 3) targets 2 business days, for a target end-to-end approval time of 10 business days for purchases requiring the full Standard Approval Chain.\n",
           "children": []
         },
@@ -805,7 +805,7 @@
           "title": "7. Audit and Recordkeeping",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "All approvals in this workflow must be entered into the procurement system and signed digitally by each approver; compliance officer Aisha Malik conducts a quarterly audit of a sample of these records to verify adherence. Required approvers vary by commitment amount: for purchases under $10,000 only the Department Manager signs; for $10,000–$49,999 the Department Manager followed by the Department Head must approve; for $50,000–$499,999 the sequence is Priya Raman (Procurement) → Sarah Chen (CFO) → Tom Reyes (CEO); and for $500,000 and above the sequence adds the Board Finance Committee after Priya Raman, Sarah Chen, and Tom Reyes.",
           "full_text": "All approvals under this workflow must be recorded in the procurement system with a digital signature from each approver. Compliance (Aisha Malik) audits a sample of approval records quarterly to confirm adherence to this workflow.\nCommitment Amount | Required Approvers (in order)\nUnder $10,000 | Department Manager only\n$10,000 – $49,999 | Department Manager -> Department Head\n$50,000 – $499,999 | Priya Raman (Procurement) -> Sarah Chen (CFO) -> Tom Reyes (CEO)\n$500,000 and above | Priya Raman -> Sarah Chen -> Tom Reyes -> Board Finance Committee\n",
           "children": []
         }
@@ -818,7 +818,7 @@
       "source": "data\\06_quarterly_financial_report_q3.xlsx",
       "file_type": "xlsx",
       "page_count": 5,
-      "summary": "",
+      "summary": "Meridian Dynamics Corp's confidential internal Q3 financial report, prepared by VP of Finance Operations Linda Fischer reporting to CFO Sarah Chen, records total Q3 revenue of $108.4 million—a 6.2 % year‑over‑year increase—with an operating margin of 14.1 % (up from 13.4 % the prior quarter); revenue by business unit is Industrial Automation $41.2 M (+2.1 % YoY), Renewable Systems $33.6 M (+11.4 % YoY), Aftermarket Services $21.9 M (+3.0 % YoY) and Digital Solutions $11.7 M (+18.9 % YoY). Project Helios (Cost Center CC‑4471) used $2.1 M of its $9.8 M budget (68 %) with $1.4 M paid to Acme Cloud Solutions (Tier 1, High Risk) and $0.5 M to Bright Steel Supply (Tier 3, Low Risk); Project Atlas (CC‑4489) spent $1.6 M of $6.5 M (25 %) including $0.3 M to Vertex Logistics (Tier 3, Low Risk). Headcount rose to 2,412, compensation expense reached $61.3 million (56.5 % of operating expenses), and Q3 capital expenditures totaled $6.8 million, including a $2.9 million infrastructure spend for Project Helios, with all purchases below the $250,000 CEO‑sign‑off threshold. Risks noted are a 22 % QoQ increase in cloud‑spend for Project Helios requiring monitoring per IT Security Policy §6.3 and foreign‑exchange volatility at the Krakow office that trimmed Renewable Systems margins by about 40 basis points; the outlook projects Q4 revenue between $114 million and $118 million.",
       "children": [
         {
           "id": "worksheet_001",
@@ -826,7 +826,7 @@
           "title": "Summary",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Meridian Dynamics Corp's internal Q3 financial report, prepared by VP of Finance Operations Linda Fischer (reporting to CFO Sarah Chen) and classified as Confidential per IT Security Policy Section 4.2, shows total Q3 revenue of $108.4 million, a 6.2 % year‑over‑year increase, and an operating margin of 14.1 % versus 13.4 % in the prior‑year quarter; revenue by business unit is Industrial Automation $41.2 M (+2.1 % YoY), Renewable Systems $33.6 M (+11.4 % YoY), Aftermarket Services $21.9 M (+3.0 % YoY), and Digital Solutions $11.7 M (+18.9 % YoY).",
           "full_text": "Meridian Dynamics Corp — Q3 Financial Report (Internal)\nPrepared by: Linda Fischer, VP of Finance Operations (reports to Sarah Chen, CFO)\nClassification: Confidential (per IT Security Policy Section 4.2)\nExecutive Summary: Q3 revenue of $108.4 million, up 6.2% YoY. Operating margin 14.1% vs. 13.4% prior-year quarter.\nBusiness Unit | Q3 Revenue ($M) | YoY Growth\nIndustrial Automation | 41.2 | +2.1%\nRenewable Systems | 33.6 | +11.4%\nAftermarket Services | 21.9 | +3.0%\nDigital Solutions | 11.7 | +18.9%",
           "children": [
             {
@@ -844,7 +844,7 @@
           "title": "Project Spend",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The Q3 spend report shows that Cost Center CC‑4471’s Project Helios incurred $2.1 M of its $9.8 M annual budget (68% used), including $1.4 M paid to Acme Cloud Solutions and $0.5 M to Bright Steel Supply, while Cost Center CC‑4489’s Project Atlas spent $1.6 M of its $6.5 M budget (25% used), with $0.3 M allocated to Vertex Logistics for shipment and staging.",
           "full_text": "Cost Centers and Project Spend (Q3)\nCost Center | Project | Q3 Spend ($M) | Full-Year Budget ($M) | % of Budget Used | Notes\nCC-4471 | Project Helios | 2.1 | 9.8 | 68% | Incl. $1.4M to Acme Cloud Solutions, $0.5M to Bright Steel Supply\nCC-4489 | Project Atlas | 1.6 | 6.5 | 25% | Incl. $0.3M to Vertex Logistics for shipment/staging",
           "children": [
             {
@@ -862,7 +862,7 @@
           "title": "Vendor Spend",
           "page_start": 3,
           "page_end": 3,
-          "summary": "",
+          "summary": "The Q3 Vendor Spend Summary ranks the top three vendors by expenditure: Acme Cloud Solutions leads with $1.4 million, supporting Project Helios and assigned IT Security Tier 1 (High Risk); Bright Steel Supply follows with $0.5 million, also supporting Project Helios and placed in Tier 3 (Low Risk); and Vertex Logistics ranks third with $0.3 million, supporting Project Atlas and classified as Tier 3 (Low Risk).",
           "full_text": "Vendor Spend Summary — Top 3 by Q3 Spend\nRank | Vendor | Q3 Spend ($M) | Supports Project | IT Security Tier\n1 | Acme Cloud Solutions | 1.4 | Project Helios | Tier 1 (High Risk)\n2 | Bright Steel Supply | 0.5 | Project Helios | Tier 3 (Low Risk)\n3 | Vertex Logistics | 0.3 | Project Atlas | Tier 3 (Low Risk)",
           "children": [
             {
@@ -880,7 +880,7 @@
           "title": "Headcount & Capex",
           "page_start": 4,
           "page_end": 4,
-          "summary": "",
+          "summary": "The worksheet shows that total headcount rose from 2,380 in Q2 to 2,412 in Q3; compensation expense for Q3 was $61.3 million, representing 56.5 % of operating expenses. Q3 capital expenditures total $6.8 million, with no single item exceeding the $250,000 CEO‑sign‑off threshold defined in FIN‑POL‑011 Sec 4.3, as the spend was allocated across multiple sub‑$250K purchase orders. The Project Helios Infrastructure component accounted for $2.9 million of the total capex.",
           "full_text": "Headcount and Compensation\nMetric | Q2 | Q3\nTotal Headcount | 2380 | 2412\nCompensation Expense ($M) | - | 61.3\nCompensation as % of OpEx | - | 56.5%\nCapital Expenditures (Q3)\nItem | Amount ($M) | Notes\nTotal Capex | 6.8 | None individually exceeded $250,000 CEO sign-off threshold (FIN-POL-011 Sec 4.3); spend disbursed across multiple sub-$250K POs\nProject Helios Infrastructure | 2.9 | Included in total Capex above",
           "children": [
             {
@@ -898,7 +898,7 @@
           "title": "Risks & Outlook",
           "page_start": 5,
           "page_end": 5,
-          "summary": "",
+          "summary": "The worksheet titled “Risks & Outlook” lists two risk factors: cloud‑spend growth for Project Helios is up 22 % quarter‑over‑quarter and must be monitored under IT Security Policy §6.3 cost‑monitoring, and foreign‑exchange exposure at the Krakow office, where EUR/USD volatility reduced Renewable Systems margins by approximately 40 basis points. The outlook section projects Q4 revenue in the range of $114 million to $118 million.",
           "full_text": "Risk Factors\nRisk | Detail\nCloud spend growth (Project Helios) | Up 22% QoQ; monitor per IT Security Policy Section 6.3 cost-monitoring provision\nFX exposure (Krakow office) | EUR/USD volatility affected reported Renewable Systems margins by ~40 basis points\nOutlook\nMetric | Q4 Projection\nRevenue ($M) | 114–118",
           "children": [
             {
@@ -919,7 +919,7 @@
       "source": "data\\07_product_technical_manual.pdf",
       "file_type": "pdf",
       "page_count": 2,
-      "summary": "",
+      "summary": "The manual for the HX‑7200 Precision Actuator Controller—a rack‑mounted unit that drives high‑precision servo actuators in automated manufacturing lines—provides complete guidance on installing the controller in a standard 19‑inch rack with at least 2 U clearance, operating it between 0 °C and 45 °C (thermal‑protection shutdown above 45 °C), supplying 24 V DC up to 6.5 A using the MDC‑approved PSU‑2400 (use of non‑approved supplies voids the warranty), and configuring network connectivity via EtherCAT or Modbus TCP with DHCP or static IPs set from the front‑panel keypad. Configuration instructions cover up to four axes, requiring individual auto‑tune calibration (Menu → Axis Config → Auto‑Tune), re‑auto‑tuning after any >15 % change in actuator or load mass, setting soft travel limits, and mandatory hard limits enforced by physical limit switches per safety Section 6, with default PID values of P = 1.2, I = 0.05, D = 0.01 and guidance to increase D for high‑inertia loads. Diagnostic codes E‑101, E‑204, E‑317, E‑450, and E‑512 are listed with specific troubleshooting steps. Maintenance procedures describe USB firmware updates via the MDC Configuration Utility (requiring backup of axis calibration data when updating from version 2.x to 3.x), semi‑annual inspection of connector seating and rack airflow, fan replacement every three years or upon fan‑speed warnings, and the thermal‑protection behavior that disables motor output at internal temperatures above 70 °C until cooling below 60 °C. Safety requirements mandate hard‑limit switches wired to SI1–SI4 to achieve a Category 3 rating; bypassing them reduces the unit to Category B. Ordering information provides part numbers HX‑7200‑BASE (controller), PSU‑2400 (power supply), and CBL‑ETC‑3M (3‑m EtherCAT cable). The HX‑7200 carries a 2‑year limited warranty starting from installation, which is void if non‑approved power supplies are used or hard‑limit switches are bypassed.",
       "children": [
         {
           "id": "section_001",
@@ -927,7 +927,7 @@
           "title": "1. Overview",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The HX‑7200 Precision Actuator Controller is a rack‑mounted unit that drives high‑precision servo actuators in automated manufacturing lines; this manual provides instructions for installation, configuration, and troubleshooting specific to firmware versions 3.0 through 3.2.",
           "full_text": "The HX-7200 Precision Actuator Controller is a rack-mounted control unit used to drive high-precision servo\nactuators in automated manufacturing lines. This manual covers installation, configuration, and\ntroubleshooting for firmware versions 3.0 through 3.2.\n",
           "children": []
         },
@@ -937,7 +937,7 @@
           "title": "2. Installation",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The HX-7200 must be installed in a standard 19‑inch rack with at least 2 U of clearance above and below for airflow; it operates between 0 °C and 45 °C, and temperatures above 45 °C trigger the thermal‑protection shutdown (see Section 5.3). It requires a 24 V DC input capable of up to 6.5 A at full load and must be powered with the MDC‑approved PSU‑2400 power supply, as third‑party supplies void the warranty (Section 8). For network connectivity, the device supports EtherCAT and Modbus TCP, defaults to DHCP, and static IPs can be set via the front‑panel keypad under Menu → Network → Static IP.",
           "full_text": "2.1 Mounting Requirements\nThe HX-7200 must be mounted in a standard 19-inch rack enclosure with a minimum of 2U clearance above\nand below the unit for airflow. Operating temperature range is 0°C to 45°C; ambient temperature above\n45°C will trigger the thermal-protection shutdown described in Section 5.3.\n2.2 Power Requirements\nThe unit requires a 24V DC input, rated at a maximum draw of 6.5A under full load. Use only the\nMDC-approved PSU-2400 power supply; use of third-party supplies voids the warranty described in Section\n8.\n2.3 Network Configuration\nThe HX-7200 supports both EtherCAT and Modbus TCP for host communication. Default IP configuration is\nDHCP; static IP assignment is configured via the front-panel keypad under Menu -> Network -> Static IP.\n",
           "children": []
         },
@@ -947,7 +947,7 @@
           "title": "3. Configuration",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The controller supports up to four axes, each requiring individual calibration via the auto‑tune procedure (Menu → Axis Config → Auto‑Tune) and must be re‑auto‑tuned whenever the connected actuator or load mass changes by more than 15%; before motion, soft (software) travel limits must be set for every axis, while hard limits enforced by physical limit switches are mandatory and cannot be disabled per the safety requirements of Section 6; default PID settings are P = 1.2, I = 0.05, D = 0.01, and for high‑inertia loads the D term should be increased in 0.01 increments while monitoring for oscillation.",
           "full_text": "3.1 Axis Calibration\nEach of the controller's up to 4 axes must be calibrated individually using the auto-tune procedure: Menu ->\nAxis Config -> Auto-Tune. Auto-tune should be repeated any time the connected actuator or load mass\nchanges by more than 15%.\n3.2 Safety Limits\nSoft limits (software-enforced travel limits) must be configured for every axis before enabling motion. Hard\nlimits (physical limit switches) are mandatory and cannot be disabled through software, per the safety\nrequirements in Section 6.\n3.3 PID Tuning Parameters\nDefault PID values (P=1.2, I=0.05, D=0.01) are suitable for most standard loads. For high-inertia loads,\nincrease the D term incrementally in steps of 0.01 while monitoring for oscillation.\n",
           "children": []
         },
@@ -957,7 +957,7 @@
           "title": "4. Diagnostic Codes",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The diagnostic codes are: E-101 indicates an overtemperature shutdown, requiring verification of rack airflow and ambient temperature per Section 2.1; E-204 signals encoder signal loss, prompting a check of encoder cabling and connector seating; E-317 denotes overcurrent on axis N, calling for load reduction or inspection for mechanical binding; E-450 shows a network communication timeout, necessitating verification of EtherCAT/Modbus cabling and host configuration; and E-512 means calibration data is corrupted, requiring a re‑run of the auto‑tune procedure as described in Section 3.1.",
           "full_text": "Code\nMeaning\nRecommended Action\nE-101\nOvertemperature shutdown\nVerify rack airflow; check ambient temp against Section 2.1\nE-204\nEncoder signal loss\nCheck encoder cabling; verify connector seating\nE-317\nOvercurrent on axis N\nReduce load or verify mechanical binding\nE-450\nNetwork communication timeout\nVerify EtherCAT/Modbus cabling and host configuration\nE-512\nCalibration data corrupted\nRe-run auto-tune per Section 3.1\n",
           "children": []
         },
@@ -967,7 +967,7 @@
           "title": "5. Maintenance",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Firmware updates are performed via USB with the MDC Configuration Utility, and axis calibration data must be backed up beforehand because updates from version 2.x to 3.x require recalibration. Preventive maintenance calls for inspecting connector seating and rack airflow semi‑annually and replacing the internal cooling fan every three years or whenever fan‑speed warnings appear in the diagnostic log. The unit’s thermal protection disables motor output and displays error code E‑101 when internal temperature exceeds 70 °C, remaining in this state until the temperature falls below 60 °C.",
           "full_text": "5.1 Firmware Updates\nFirmware updates are applied via USB using the MDC Configuration Utility. Always back up axis calibration\ndata before updating firmware, as updates from version 2.x to 3.x require recalibration.\n5.2 Preventive Maintenance Schedule\nInspect connector seating and rack airflow every 6 months. Replace the internal cooling fan every 3 years or\nupon detection of fan-speed warnings in the diagnostic log.\n5.3 Thermal Protection\nIf internal temperature exceeds 70°C, the unit automatically disables motor output and displays error code\nE-101 until the unit cools below 60°C.\n",
           "children": []
         },
@@ -977,7 +977,7 @@
           "title": "6. Safety Requirements",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "Hard limit switches must be installed on every axis and wired to the dedicated safety input terminals (SI1–SI4); the HX‑7200 achieves a Category 3 rating under applicable machine‑safety standards only when these hard limits are correctly connected, otherwise the unit is considered Category B and has no independent safety rating.",
           "full_text": "Hard limit switches must be installed and wired to the dedicated safety input terminals (SI1–SI4) on every\naxis. The HX-7200 is rated to Category 3 (per applicable machine safety standards) only when hard limits\nare correctly wired; without them, the unit must be treated as Category B (no independent safety rating).\n",
           "children": []
         },
@@ -987,7 +987,7 @@
           "title": "7. Ordering Information",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The ordering information specifies the part numbers for replacement units and accessories: the controller is HX-7200-BASE, the power supply is PSU-2400, and the 3‑meter EtherCAT cable is CBL-ETC-3M.",
           "full_text": "Replacement units and accessories reference part numbers HX-7200-BASE (controller), PSU-2400 (power\nsupply), and CBL-ETC-3M (3-meter EtherCAT cable).\n",
           "children": []
         },
@@ -997,7 +997,7 @@
           "title": "8. Warranty",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The HX-7200 is covered by a 2‑year limited warranty starting from the date of installation; the warranty becomes void if the equipment is used with non‑approved power supplies (refer to Section 2.2) or if the hard‑limit switches are bypassed (see Section 6).",
           "full_text": "The HX-7200 carries a 2-year limited warranty from date of installation, void if used with non-approved\npower supplies (see Section 2.2) or if hard limit switches are bypassed (see Section 6).\n",
           "children": []
         }
@@ -1010,7 +1010,7 @@
       "source": "data\\08_supply_chain_network.xlsx",
       "file_type": "xlsx",
       "page_count": 3,
-      "summary": "",
+      "summary": "The document for Meridian Dynamics Corp outlines its vendor ecosystem for Projects Helios and Atlas, detailing a Vendor Directory where Priya Raman (Head of Procurement) oversees three suppliers—Acme Cloud Solutions, Inc. (Tier 1 high‑risk cloud provider for Helios’s compute, storage and managed‑DB services, Q3 spend $1.4 M, contacts David Osei and Raman), Bright Steel Supply Co. (Tier 3 low‑risk hardware components for Helios on‑prem hardware and HX‑7200, Q3 spend $0.5 M, contacts Raman), and Vertex Logistics LLC (Tier 3 low‑risk logistics for Atlas hardware staging, Q3 spend $0.3 M, contacts Linda Fischer and Raman). The Component Dependency Map links these resources, confirming Acme’s Tier 1 cloud assets, Bright Steel’s precision metal parts, and Vertex’s shipment services. Risk & Onboarding notes Acme as a single‑vendor point of failure for Helios because no alternate cloud provider is contracted, a concern raised in the annual Tier 1 re‑approval by Raman and Osei; the onboarding workflow proceeds through sourcing/vetting by Raman, risk‑tier classification by Osei, contract review by Elena Petrova, and final approval when the commitment meets or exceeds the $50,000 threshold.",
       "children": [
         {
           "id": "worksheet_001",
@@ -1018,7 +1018,7 @@
           "title": "Vendor Directory",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "The Vendor Directory for Meridian Dynamics Corp, owned by Priya Raman (Head of Procurement), lists three key suppliers: Acme Cloud Solutions, Inc., a Tier 1 (High‑Risk) cloud infrastructure provider supporting Project Helios’s compute, storage, and managed‑DB services, with primary contacts David Osei (IT Security) and Priya Raman, and a Q3 spend of $1.4 M; Bright Steel Supply Co., a Tier 3 (Low‑Risk) hardware component supplier for Project Helios on‑prem hardware and HX‑7200 manufacturing, contacted by Priya Raman and accounting for $0.5 M in Q3; and Vertex Logistics LLC, a Tier 3 (Low‑Risk) shipping and freight logistics partner for Project Atlas hardware staging and shipment, primary contacts Linda Fischer (Finance Ops) and Priya Raman, with a Q3 spend of $0.3 M.",
           "full_text": "Meridian Dynamics Corp — Supply Chain and Vendor Network\nDocument owner: Priya Raman, Head of Procurement\nVendor | Relationship Type | Supports | IT Security Tier | Primary Internal Contact(s) | Q3 Spend ($M)\nAcme Cloud Solutions, Inc. | Cloud infrastructure provider | Project Helios (compute, storage, managed DB) | Tier 1 (High Risk) | David Osei (IT Security), Priya Raman (Procurement) | 1.4\nBright Steel Supply Co. | Hardware component supplier | Project Helios on-prem hardware; HX-7200 manufacturing | Tier 3 (Low Risk) | Priya Raman (Procurement) | 0.5\nVertex Logistics LLC | Shipping / freight logistics | Project Atlas hardware staging & shipment | Tier 3 (Low Risk) | Linda Fischer (Finance Ops), Priya Raman (Procurement) | 0.3",
           "children": [
             {
@@ -1036,7 +1036,7 @@
           "title": "Component Dependency Map",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The Component Dependency Map lists four key resources: Cloud compute & storage and Managed PostgreSQL clusters are both supplied by Acme Cloud Solutions for Project Helios and are classified as Tier 1 risk; Precision metal components/actuator housings are provided by Bright Steel Supply for Project Helios (on‑prem hardware) and the HX‑7200 controller line, carrying a Tier 3 risk rating; and Hardware shipment & staging is supplied by Vertex Logistics for Project Atlas, also assigned Tier 3 risk.",
           "full_text": "Component-to-Project Dependency Map\nComponent / Service | Supplied By | Used In | Risk Tier\nCloud compute & storage | Acme Cloud Solutions | Project Helios | Tier 1\nManaged PostgreSQL clusters | Acme Cloud Solutions | Project Helios | Tier 1\nPrecision metal components / actuator housings | Bright Steel Supply | Project Helios (on-prem hardware), HX-7200 controller line | Tier 3\nHardware shipment & staging | Vertex Logistics | Project Atlas | Tier 3",
           "children": [
             {
@@ -1054,7 +1054,7 @@
           "title": "Risk & Onboarding",
           "page_start": 3,
           "page_end": 3,
-          "summary": "",
+          "summary": "Procurement has identified Acme Cloud Solutions as a single‑vendor point of failure for Project Helios’s cloud infrastructure because no secondary cloud provider is contracted, a risk noted during the annual Tier 1 vendor re‑approval review conducted by Priya Raman and David Osei; the vendor onboarding workflow proceeds in four ordered steps: (1) Priya Raman (Procurement) handles sourcing and initial vetting, (2) David Osei (IT Security) assigns a risk‑tier classification when system access is requested, (3) Elena Petrova (Legal) reviews contracts for new (non‑renewal) agreements, and (4) the Standard Approval Chain executes the agreement if the commitment value meets or exceeds the $50,000 threshold.",
           "full_text": "Single-Vendor Dependency Risks\nProcurement has flagged Acme Cloud Solutions as a single point of failure for Project Helios's cloud infrastructure, since no secondary cloud vendor is currently contracted. Reviewed jointly by Priya Raman and David Osei as part of the annual Tier 1 vendor re-approval process.\nVendor Onboarding Process (in order)\nStep | Owner | Action\n1 | Priya Raman (Procurement) | Sourcing and initial vetting\n2 | David Osei (IT Security) | Risk-tier classification if system access requested\n3 | Elena Petrova (Legal) | Contract review for new (non-renewal) agreements\n4 | Standard Approval Chain | Execution if commitment value meets $50,000 threshold",
           "children": [
             {
@@ -1075,7 +1075,7 @@
       "source": "data\\09_org_chart_and_roles.xlsx",
       "file_type": "xlsx",
       "page_count": 2,
-      "summary": "",
+      "summary": "Meridian Dynamics Corp’s organizational chart shows CEO Tom Reyes reporting to the Board and holding final sign‑off on capital expenditures over $250 K and top approval authority for any $50 K+ chain; CFO Sarah Chen reports to Tom, oversees Finance, Procurement and FP&A, serves as second approver for $50 K+ transactions, and supervises Head of Procurement Priya Raman (first $50 K+ approver and vendor manager), HR Director James Okoro (owner of the Employee Policy Manual), and VP of Finance Operations Linda Fischer (owner of Project Atlas and the quarterly Financial Report). VP of Engineering Marcus Webb reports to Tom, leads product engineering, IT infrastructure and IT security, and heads Project Helios, with Director of IT Security David Osei reporting to him, owning IT Security Policy SEC‑POL‑004 and acting as Tier 1/2 vendor approver. General Counsel Elena Petrova reports to Tom, manages legal, contracts and compliance, and has Compliance Officer Aisha Malik reporting to her to conduct quarterly approval‑workflow audits and co‑review Tier 1 vendors. The Approval Authority matrix mirrors these reporting lines and defines the same approval limits for each role.",
       "children": [
         {
           "id": "worksheet_001",
@@ -1083,7 +1083,7 @@
           "title": "Reporting Lines",
           "page_start": 1,
           "page_end": 1,
-          "summary": "",
+          "summary": "Meridian Dynamics Corp’s org chart lists Tom Reyes as CEO reporting to the Board, with authority for final sign‑off on capital expenditures over $250 K and as top approver in the $50 K+ approval chain. CFO Sarah Chen reports to Tom and oversees Finance, Procurement, and FP&A, serving as second approver in the $50 K+ chain; she also supervises Priya Raman (Head of Procurement, first $50 K+ approver and vendor manager), James Okoro (HR Director, owner of the Employee Policy Manual), and Linda Fischer (VP of Finance Operations, owner of Project Atlas and quarterly Financial Report). VP of Engineering Marcus Webb reports to Tom, responsible for product engineering, IT infrastructure, and IT security, and leads Project Helios; his direct report David Osei (Director of IT Security) owns IT Security Policy SEC‑POL‑004 and acts as Tier 1/2 vendor approver. General Counsel Elena Petrova reports to Tom, handling legal, contracts, and compliance, with Aisha Malik (Compliance Officer) reporting to her to conduct quarterly approval‑workflow audits and co‑review Tier 1 vendors.",
           "full_text": "Meridian Dynamics Corp — Organizational Chart and Roles\nName | Role | Reports To | Owns / Key Responsibility\nTom Reyes | Chief Executive Officer | Board of Directors | Final sign-off >$250K capex; top approver in $50K+ chain\nSarah Chen | Chief Financial Officer | Tom Reyes | Finance, Procurement, FP&A; 2nd approver in $50K+ chain\nMarcus Webb | VP of Engineering | Tom Reyes | Product engineering, IT infra, IT Security; owns Project Helios\nElena Petrova | General Counsel | Tom Reyes | Legal, Contracts, Compliance; new-contract legal review\nPriya Raman | Head of Procurement | Sarah Chen | 1st approver in $50K+ chain; vendor relationship management\nDavid Osei | Director of IT Security | Marcus Webb | Owns IT Security Policy SEC-POL-004; Tier 1/2 vendor approver\nJames Okoro | HR Director | Sarah Chen | Owns Employee Policy Manual\nAisha Malik | Compliance Officer | Elena Petrova | Quarterly approval-workflow audits; Tier 1 vendor co-review\nLinda Fischer | VP of Finance Operations | Sarah Chen | Owns Project Atlas; authors quarterly Financial Report",
           "children": [
             {
@@ -1101,7 +1101,7 @@
           "title": "Approval Authority",
           "page_start": 2,
           "page_end": 2,
-          "summary": "",
+          "summary": "The Approval Authority matrix defines each role’s reporting line and approval limits: CEO Tom Reyes reports to the Board of Directors and provides final sign‑off for any chain over $50 K, holding sole authority for capital expenditures exceeding $250 K; CFO Sarah Chen reports to Tom Reyes, serves as second approver for $50 K+ chains; Procurement lead Priya Raman reports to Sarah Chen and is the first approver for $50 K+ chains; IT Security specialist David Osei reports to Marcus Webb and must also approve Tier 1/2 vendor purchases; Legal counsel Elena Petrova reports to Tom Reyes and is responsible for reviewing contracts for new (non‑renewal) vendor agreements.",
           "full_text": "Approval Authority Summary\nRole | Reports To | Approval Authority\nTom Reyes (CEO) | Board of Directors | Final sign-off, $50K+ chain; sole authority above $250K capex\nSarah Chen (CFO) | Tom Reyes | Second approver, $50K+ chain\nPriya Raman (Procurement) | Sarah Chen | First approver, $50K+ chain\nDavid Osei (IT Security) | Marcus Webb | Additional approver for Tier 1/2 vendor purchases\nElena Petrova (Legal) | Tom Reyes | Contract review for new (non-renewal) vendor agreements",
           "children": [
             {
