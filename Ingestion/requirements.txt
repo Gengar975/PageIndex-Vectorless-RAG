@@ -1,0 +1,5 @@
+PyMuPDF
+python-docx
+openpyxl
+google-genai
+python-dotenv
