@@ -1,5 +1,5 @@
 """
-Gemini summaries for meaningful structural nodes.
+Groq summaries for meaningful structural nodes.
 
 PageIndex summary design:
 
@@ -13,11 +13,11 @@ corpus
 
 Important rules:
 - Only meaningful structural nodes are summarized.
-- Page and subsection nodes are NOT sent to Gemini individually.
+- Page and subsection nodes are NOT sent to Groq individually.
 - Existing summaries are preserved.
 - Failed summaries can be retried on a later run.
 - The request limit is enforced per execution.
-- Retryable Gemini errors are retried with backoff.
+- Retryable Groq errors are retried with backoff.
 - The tree can be saved after every successful summary.
 - Document summaries are generated from structural summaries,
   not from the entire raw document.
@@ -31,7 +31,7 @@ from pathlib import Path
 from typing import Any, Callable, Optional
 
 from dotenv import load_dotenv
-from google import genai
+from groq import Groq
 
 
 # -------------------------------------------------------------
@@ -41,20 +41,20 @@ from google import genai
 load_dotenv()
 
 MODEL_NAME = os.getenv(
-    "GEMINI_MODEL",
-    "gemini-3.6-flash",
+    "GROQ_MODEL",
+    "llama-3.3-70b-versatile",
 )
 
 MAX_REQUESTS = int(
     os.getenv(
-        "GEMINI_MAX_REQUESTS",
+        "GROQ_MAX_REQUESTS",
         "5",
     )
 )
 
 REQUEST_INTERVAL = float(
     os.getenv(
-        "GEMINI_REQUEST_INTERVAL",
+        "GROQ_REQUEST_INTERVAL",
         "15",
     )
 )
@@ -69,7 +69,7 @@ _requests_made = 0
 
 
 # -------------------------------------------------------------
-# Node types that are meaningful Gemini summary targets
+# Node types that are meaningful Groq summary targets
 # -------------------------------------------------------------
 
 SUMMARY_NODE_TYPES = {
@@ -84,7 +84,7 @@ SUMMARY_NODE_TYPES = {
 
 
 # -------------------------------------------------------------
-# Gemini client
+# Groq client
 # -------------------------------------------------------------
 
 def _get_client():
@@ -93,14 +93,14 @@ def _get_client():
     if _client is not None:
         return _client
 
-    api_key = os.getenv("GEMINI_API_KEY")
+    api_key = os.getenv("GROQ_API_KEY")
 
     if not api_key:
         raise RuntimeError(
-            "GEMINI_API_KEY environment variable is not set."
+            "GROQ_API_KEY environment variable is not set."
         )
 
-    _client = genai.Client(
+    _client = Groq(
         api_key=api_key
     )
 
@@ -113,17 +113,18 @@ def _get_client():
 
 def _is_retryable_error(exc: Exception) -> bool:
     """
-    Determine whether a Gemini error is potentially temporary.
+    Determine whether a Groq error is potentially temporary.
 
     Retryable:
-        429
-        RESOURCE_EXHAUSTED
+        429 (rate_limit_exceeded)
+        500
+        502
         503
-        UNAVAILABLE
+        SERVICE_UNAVAILABLE
 
-    However, an explicit free-tier quota exhaustion message is
-    treated as a run-stopping condition because waiting a few
-    seconds will not restore the quota.
+    However, an explicit daily/tokens-per-day quota exhaustion
+    message is treated as a run-stopping condition because
+    waiting a few seconds will not restore the quota.
     """
 
     message = str(exc).upper()
@@ -131,9 +132,9 @@ def _is_retryable_error(exc: Exception) -> bool:
     if (
         "QUOTA EXHAUSTED" in message
         or "QUOTA_EXCEEDED" in message
-        or "FREE TIER" in message
         or "PER DAY" in message
-        or "PER MINUTE" in message
+        or "TOKENS PER DAY" in message
+        or "TPD" in message
         or "LIMIT: 5" in message
         or "REQUEST LIMIT REACHED" in message
     ):
@@ -141,9 +142,11 @@ def _is_retryable_error(exc: Exception) -> bool:
 
     return (
         "429" in message
-        or "RESOURCE_EXHAUSTED" in message
+        or "RATE_LIMIT" in message
+        or "500" in message
+        or "502" in message
         or "503" in message
-        or "UNAVAILABLE" in message
+        or "SERVICE_UNAVAILABLE" in message
     )
 
 
@@ -155,12 +158,12 @@ def _requests_remaining() -> int:
 
 
 # -------------------------------------------------------------
-# Gemini request
+# Groq request
 # -------------------------------------------------------------
 
-def _call_gemini(prompt: str) -> str:
+def _call_groq(prompt: str) -> str:
     """
-    Send one prompt to Gemini.
+    Send one prompt to Groq.
 
     The configured MAX_REQUESTS value is a hard limit for this
     Python execution.
@@ -183,7 +186,7 @@ def _call_gemini(prompt: str) -> str:
 
         if _requests_made >= MAX_REQUESTS:
             raise RuntimeError(
-                "Gemini request limit reached for this run "
+                "Groq request limit reached for this run "
                 f"({MAX_REQUESTS})."
             )
 
@@ -203,20 +206,24 @@ def _call_gemini(prompt: str) -> str:
         _requests_made += 1
 
         try:
-            response = _get_client().models.generate_content(
+            response = _get_client().chat.completions.create(
                 model=MODEL_NAME,
-                contents=prompt,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt,
+                    }
+                ],
             )
 
-            output = getattr(
-                response,
-                "text",
-                None,
-            )
+            output = None
+
+            if response.choices:
+                output = response.choices[0].message.content
 
             if not output:
                 raise RuntimeError(
-                    "Gemini returned an empty response."
+                    "Groq returned an empty response."
                 )
 
             return output.strip()
@@ -259,7 +266,7 @@ def _call_gemini(prompt: str) -> str:
             )
 
             print(
-                "  Gemini retryable error."
+                "  Groq retryable error."
             )
 
             print(
@@ -270,7 +277,7 @@ def _call_gemini(prompt: str) -> str:
             time.sleep(delay)
 
     raise RuntimeError(
-        "Gemini request failed after retries."
+        "Groq request failed after retries."
     )
 
 
@@ -390,7 +397,7 @@ Content:
 {text}
 """.strip()
 
-    return _call_gemini(
+    return _call_groq(
         prompt
     )
 
@@ -407,7 +414,7 @@ def _build_document_summary_context(
     structural summaries.
 
     We intentionally do NOT send the entire raw document to
-    Gemini again.
+    Groq again.
     """
 
     parts = []
@@ -492,7 +499,7 @@ Structural summaries:
 {structural_summaries}
 """.strip()
 
-    return _call_gemini(
+    return _call_groq(
         prompt
     )
 
@@ -613,7 +620,7 @@ def process_structural_nodes(
 
         if not summary:
             raise RuntimeError(
-                "Gemini returned an empty summary."
+                "Groq returned an empty summary."
             )
 
         node["summary"] = summary
@@ -714,7 +721,7 @@ def process_document_summary(
 
         if not summary:
             raise RuntimeError(
-                "Gemini returned an empty document summary."
+                "Groq returned an empty document summary."
             )
 
         document_node["summary"] = summary
@@ -785,7 +792,7 @@ def process_tree(
     )
 
     print(
-        f"Gemini model: {MODEL_NAME}"
+        f"Groq model: {MODEL_NAME}"
     )
 
     print(
@@ -827,7 +834,7 @@ def process_tree(
         # -----------------------------------------------------
 
     print(
-        "\n===== GEMINI SUMMARY RUN COMPLETE ====="
+        "\n===== GROQ SUMMARY RUN COMPLETE ====="
     )
 
     print(

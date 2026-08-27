@@ -1,3 +1,5 @@
+import time
+import random
 from google import genai
 from dotenv import load_dotenv
 import os
@@ -7,6 +9,7 @@ load_dotenv()
 client = genai.Client(
     api_key=os.getenv("GEMINI_API_KEY")
 )
+
 
 def generate_answer(query, context):
 
@@ -29,9 +32,30 @@ CONTEXT:
 {context}
 """
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash",
-        contents=prompt
-    )
+    for attempt in range(5):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.5-flash",
+                contents=prompt
+            )
 
-    return response.text
+            return response.text
+
+        except Exception as e:
+
+            if "429" in str(e) or "503" in str(e):
+                if attempt == 4:
+                    return "The service is temporarily busy. Please try again."
+
+                # Exponential backoff + jitter
+                wait = min(30, (2 ** attempt) + random.random())
+
+                print(
+                    f"Gemini unavailable/rate limited. "
+                    f"Retrying in {wait:.1f}s..."
+                )
+
+                time.sleep(wait)
+
+            else:
+                raise
