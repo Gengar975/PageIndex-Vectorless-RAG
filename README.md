@@ -12,7 +12,7 @@ This version follows the supplied PageIndex-style example.
 
 There is one canonical tree:
 
-`output/pageindex_tree.json`
+`Ingestion/output/pageindex_tree.json`
 
 Its shape is:
 
