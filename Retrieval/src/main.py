@@ -35,6 +35,10 @@ while True:
     # BM25 Retrieval
     results = bm25_search(nodes, query)
 
+    print("\nTOP 10 RETRIEVAL RESULTS")
+    for r in results[:10]:
+        print(f"{r['title']} | Score: {r['score']}")
+
     if len(results) == 0:
         print("\nNo relevant results found.")
         continue
@@ -56,16 +60,24 @@ while True:
     # Build context for Gemini
     context = ""
 
-    top_k = results[:5]
+    top_k = results[:3]
 
-    for node in top_k:
+    print("\nSELECTED NODES FOR ANSWERING")
+
+    for i, node in enumerate(top_k, start=1):
+
+        print(f"{i}. {node['title']}")
 
         context += (
             f"\n\nDocument: {node.get('document', 'Unknown')}"
-            f"\nTitle: {node['title']}\n"
+            f"\nTitle: {node['title']}"
+            f"\nPages: {node['page_start']} - {node['page_end']}\n"
         )
 
         context += node["text"]
+
+        if len(context) > 6000:
+            break
 
     print("\n" + "=" * 60)
     print("CONTEXT SENT TO LLM")
