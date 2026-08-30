@@ -1,115 +1,45 @@
-# PageIndex Multi-Format Parser — v3
+# 📄 PageIndex Multi-Format Parser (v3)
 
-This version follows the supplied PageIndex-style example.
+> **Structured hierarchical document ingestion and semantic summarization engine for multi-format corpora (PDF, DOCX, XLSX).**
 
-## Supported formats
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](#)
+[![Supported Formats](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX%20%7C%20XLSX-brightgreen.svg)](#)
+[![LLM Engine](https://img.shields.io/badge/Summarizer-Gemini%20Flash-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 
-- PDF
-- DOCX
-- XLSX
+---
 
-## Output
+## 📌 Overview
 
-There is one canonical tree:
+PageIndex Multi-Format Parser standardizes unstructured heterogeneous documents into a unified, hierarchical JSON tree (`pageindex_tree.json`). It provides structured node traversal and contextual multi-stage summarization powered by Google Gemini, designed with built-in rate-limiting and fault tolerance.
 
+---
+
+## 📑 Supported Formats & Parsing Behavior
+
+| Format | Parsing Engine / Behavior | Representation Notes |
+|:---:|:---|:---|
+| **`.pdf`** | Structural text & page extraction | Native page and boundary tracking |
+| **`.docx`** | `python-docx` boundary parser | Uses explicit page breaks as logical boundaries |
+| **`.xlsx`** | Worksheet-to-text matrix parser | Flattens rows into delimited text (`Col A \| Col B \| Col C`) |
+
+---
+
+## 🌳 Output Hierarchy
+
+All processed documents are output into a canonical tree at:
 `Ingestion/output/pageindex_tree.json`
 
-Its shape is:
+### Tree Architecture
 
 ```text
 corpus
 └── document
-    ├── summary                 <- whole-document summary
-    ├── chapter/article
-    │   ├── summary             <- structural summary
+    ├── summary                 <-- Whole-document contextual summary
+    ├── chapter / article
+    │   ├── summary             <-- Structural section summary
     │   ├── full_text
     │   └── page
-    ├── chapter/article
+    ├── chapter / article
     │   └── ...
     └── ...
-```
-
-### Summary policy
-
-Gemini summarizes:
-
-- document
-- chapter
-- article
-- section
-- exhibit
-- signatures
-- worksheet
-
-Gemini does NOT individually summarize:
-
-- subsection
-- page
-
-The whole-document summary is generated **after** structural summaries,
-using those summaries as compact context. This avoids sending the entire
-raw document to Gemini a second time.
-
-## Rate limiting / 429 protection
-
-Summary generation is optional:
-
-```bash
-python main.py input
-```
-
-builds the tree without Gemini.
-
-To generate summaries:
-
-```bash
-python main.py input --summary
-```
-
-Configure `.env`:
-
-```env
-GEMINI_API_KEY=YOUR_NEW_API_KEY
-GEMINI_MODEL=gemini-3.5-flash
-GEMINI_MAX_REQUESTS=5
-GEMINI_REQUEST_INTERVAL=15
-```
-
-The summarizer:
-- preserves existing summaries
-- skips nodes that already have summaries
-- waits between requests
-- retries common 429/503 errors
-- stores errors on the affected node instead of destroying the tree
-
-Therefore an interrupted run can be run again.
-
-## Install
-
-```bash
-pip install -r requirements.txt
-```
-
-## Important DOCX limitation
-
-DOCX files do not reliably expose rendered page numbers through
-`python-docx`. This parser therefore treats explicit page breaks as logical
-page boundaries. For exact Word pagination, a rendering engine would be
-needed.
-
-## XLSX representation
-
-Each worksheet is represented as a meaningful `worksheet` node.
-Its content is stored as text with:
-
-```text
-column A | column B | column C
-```
-
-This preserves row/column relationships sufficiently for the current
-PageIndex pipeline while keeping the original values.
-
-## Security
-
-Never commit `.env` or a real API key. If a key has been exposed, revoke it
-and create a new one.
