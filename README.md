@@ -5,7 +5,21 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](#)
 [![Supported Formats](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX%20%7C%20XLSX-brightgreen.svg)](#)
 [![LLM Engine](https://img.shields.io/badge/Summarizer-Gemini%20Flash-orange.svg)](#)
+[![Evaluation Report](https://img.shields.io/badge/Benchmark-Evaluation_Report-purple.svg)](./Evaluation/README.md)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
+
+---
+
+## 📊 Performance Benchmark & Evaluation
+
+For full benchmark metrics, retrieval latency, and accuracy breakdowns across multi-hop and factual categories:
+
+👉 **[View the Full Vectorless RAG Evaluation Report →](./Evaluation/README.md)**
+
+* **Retrieval Accuracy ($R_q$):** 60.0%
+* **Answer Accuracy ($A_q$):** 75.0%
+* **Avg. Retrieval Latency:** 1ms (BM25)
+* **Full Data:** [`Evaluation/evaluation_results.csv`](./Evaluation/evaluation_results.csv)
 
 ---
 
