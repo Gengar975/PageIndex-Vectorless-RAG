@@ -4,7 +4,7 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](#)
 [![Supported Formats](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX%20%7C%20XLSX-brightgreen.svg)](#)
-[![LLM Engine](https://img.shields.io/badge/Summarizer-Gemini%20Flash-orange.svg)](#)
+[![LLM Engine](https://img.shields.io/badge/Summarizer-openai%2Fgpt--oss--120b_(Groq)-orange.svg)](#)
 [![Evaluation Report](https://img.shields.io/badge/Benchmark-Evaluation_Report-purple.svg)](./Evaluation/README.md)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 
@@ -25,7 +25,7 @@ For full benchmark metrics, retrieval latency, and accuracy breakdowns across mu
 
 ## 📌 Overview
 
-PageIndex Multi-Format Parser standardizes unstructured heterogeneous documents into a unified, hierarchical JSON tree (`pageindex_tree.json`). It provides structured node traversal and contextual multi-stage summarization powered by Google Gemini, designed with built-in rate-limiting and fault tolerance.
+PageIndex Multi-Format Parser standardizes unstructured heterogeneous documents into a unified, hierarchical JSON tree (`pageindex_tree.json`). It provides structured node traversal and contextual multi-stage summarization powered by `openai/gpt-oss-120b` via Groq, designed with built-in rate-limiting and fault tolerance.
 
 ---
 
